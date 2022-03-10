@@ -12,7 +12,7 @@ permalink: whats-new.html
 :imagesdir: ./media/
 
 [.lead]
-Learn about the most recent changes to the cloud services that are part of the Cloud Manager platform. For more details, go to the link:release-notes.html[full set of release notes] for each individual service.
+Learn about the most recent changes to the cloud services that are part of the Cloud Manager platform. For more details, go to the link:release-notes-index.html[full set of release notes] for each individual service.
 
 == Azure NetApp Files
 
@@ -46,7 +46,7 @@ include::https://raw.githubusercontent.com/NetAppDocs/cloud-manager-tiering/main
 
 include::https://raw.githubusercontent.com/NetAppDocs/cloud-manager-cloud-volumes-ontap/main/whats-new.adoc[tag=whats-new,leveloffset=+1]
 
-== Cloud Volumes Service for Google Cloud
+== Cloud Volumes Service for GCP
 
 include::https://raw.githubusercontent.com/NetAppDocs/cloud-manager-cloud-volumes-service-gcp/main/whats-new.adoc[tag=whats-new,leveloffset=+1]
 

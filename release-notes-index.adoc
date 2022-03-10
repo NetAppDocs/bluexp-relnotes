@@ -1,6 +1,6 @@
 ---
 sidebar: sidebar
-permalink: release-notes-whats-new.html
+permalink: release-notes-index.html
 ---
 
 = Release notes index
