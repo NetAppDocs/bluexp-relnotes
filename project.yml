@@ -1,5 +1,6 @@
 settings:
   name: "Release Notes"
+  platform: cloud
   internal:
     pdf_enabled: true
   prod:
@@ -12,7 +13,9 @@ sidebar:
       url: /whats-new.html
     - title: Release notes index
       url: /release-notes-index.html
-
+product-family:
+  name: Cloud Manager
+  repo: cloud-manager-family
 homepage:
   tiles:
     - title: Recent changes
