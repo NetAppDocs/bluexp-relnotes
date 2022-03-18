@@ -7,6 +7,8 @@ settings:
     pdf_enabled: true
 sidebar:
   entries:
+    - title: Back to Cloud Manager documentation
+      url: https://docs.netapp.com/us-en/cloud-manager-family
     - title: Cloud Manager release notes
       url: /index.html
     - title: Recent changes
@@ -18,9 +20,9 @@ product-family:
   repo: cloud-manager-family
 homepage:
   tiles:
-    - title: Recent changes
+    - title: What's new
       links:
-        - title: What's new in Cloud Manager
+        - title: Recent changes in Cloud Manager
           url: whats-new.html
     - title: All release notes
       links:

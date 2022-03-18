@@ -2,8 +2,8 @@
 layout: astra
 sidebar: sidebar
 permalink: index.html
-lead: These release notes describe enhancements to the cloud services that are part of the Cloud Manager platform. Links are available to the full set of release notes for each individual service.
-summary: These release notes describe enhancements to the cloud services that are part of the Cloud Manager platform. Links are available to the full set of release notes for each individual service.
+lead: These release notes describe recent enhancements to the cloud services that are part of the Cloud Manager platform. Links are available to the full set of release notes for each individual service.
+summary: These release notes describe recent enhancements to the cloud services that are part of the Cloud Manager platform. Links are available to the full set of release notes for each individual service.
 ---
 
 = Cloud Manager release notes
