@@ -39,5 +39,4 @@ View the full set of release notes for each individual service.
 
 == Administration
 
-* https://docs.netapp.com/us-en/cloud-manager-connector/whats-new.html[Connectors^]
-* https://docs.netapp.com/us-en/cloud-manager-accounts/whats-new.html[NetApp accounts^]
+* https://docs.netapp.com/us-en/cloud-manager-setup-admin/whats-new.html[Set up and adminstration^]

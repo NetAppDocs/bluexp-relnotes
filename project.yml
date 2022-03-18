@@ -24,7 +24,7 @@ homepage:
       links:
         - title: Recent changes in Cloud Manager
           url: whats-new.html
-    - title: All release notes
+    - title: Release notes by service
       links:
         - title: Release notes index
           url: release-notes-index.html
