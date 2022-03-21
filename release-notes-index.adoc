@@ -1,0 +1,42 @@
+---
+sidebar: sidebar
+permalink: release-notes-index.html
+---
+
+= Release notes index
+:toc: macro
+:hardbreaks:
+:nofooter:
+:icons: font
+:linkattrs:
+:imagesdir: ./media/
+
+[.lead]
+View the full set of release notes for each individual service.
+
+== Storage
+
+* https://docs.netapp.com/us-en/cloud-manager-azure-netapp-files/whats-new.html[Azure NetApp Files^]
+* https://docs.netapp.com/us-en/cloud-manager-fsx-ontap/whats-new.html[Amazon FSx for ONTAP^]
+* https://docs.netapp.com/us-en/cloud-manager-cloud-volumes-ontap/whats-new.html[Cloud Volumes ONTAP^]
+* https://docs.netapp.com/us-en/cloud-manager-cloud-volumes-service-gcp/whats-new.html[Cloud Volumes Service for Google Cloud^]
+* https://docs.netapp.com/us-en/cloud-manager-kubernetes/whats-new.html[Kubernetes clusters^]
+* https://docs.netapp.com/us-en/cloud-manager-ontap-onprem/whats-new.html[On-prem ONTAP clusters^]
+
+== Data services
+
+* https://docs.netapp.com/us-en/cloud-manager-app-template/whats-new.html[AppTemplate^]
+* https://docs.netapp.com/us-en/cloud-manager-backup-restore/whats-new.html[Cloud Backup^]
+* https://docs.netapp.com/us-en/cloud-manager-data-sense/whats-new.html[Cloud Data Sense^]
+* https://docs.netapp.com/us-en/cloud-manager-sync/whats-new.html[Cloud Sync^]
+* https://docs.netapp.com/us-en/cloud-manager-tiering/whats-new.html[Cloud Tiering^]
+* https://docs.netapp.com/us-en/cloud-manager-compute/whats-new.html[Compute^]
+* https://docs.netapp.com/us-en/cloud-manager-file-cache/whats-new.html[Global File Cache^]
+* https://docs.netapp.com/us-en/cloud-manager-monitoring/whats-new.html[Monitoring^]
+* https://docs.netapp.com/us-en/cloud-manager-ransomware/whats-new.html[Ransomware^]
+* https://docs.netapp.com/us-en/cloud-manager-replication/whats-new.html[Replication^]
+* https://docs.netapp.com/us-en/cloud-manager-snapcenter/whats-new.html[SnapCenter Service^]
+
+== Administration
+
+* https://docs.netapp.com/us-en/cloud-manager-setup-admin/whats-new.html[Set up and adminstration^]
