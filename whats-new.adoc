@@ -1,0 +1,97 @@
+---
+sidebar: sidebar
+permalink: whats-new.html
+---
+
+= Recent changes in Cloud Manager
+:toc: macro
+:hardbreaks:
+:nofooter:
+:icons: font
+:linkattrs:
+:imagesdir: ./media/
+
+[.lead]
+Learn about the most recent changes to the cloud services that are part of the Cloud Manager platform. For more details, go to the link:release-notes-index.html[full set of release notes] for each individual service.
+
+== Administrative features
+
+This section describes new features related to Cloud Manager's administration features: Accounts, Connectors, cloud provider credentials, and more.
+
+include::https://raw.githubusercontent.com/NetAppDocs/cloud-manager-setup-admin/main/whats-new.adoc[tag=whats-new,leveloffset=+1]
+
+== Azure NetApp Files
+
+include::https://raw.githubusercontent.com/NetAppDocs/cloud-manager-azure-netapp-files/main/whats-new.adoc[tag=whats-new,leveloffset=+1]
+
+== Amazon FSx for ONTAP
+
+include::https://raw.githubusercontent.com/NetAppDocs/cloud-manager-fsx-ontap/main/whats-new.adoc[tag=whats-new,leveloffset=+1]
+
+== Application Template
+
+include::https://raw.githubusercontent.com/NetAppDocs/cloud-manager-app-template/main/whats-new.adoc[tag=whats-new,leveloffset=+1]
+
+== Cloud Backup
+
+include::https://raw.githubusercontent.com/NetAppDocs/cloud-manager-backup-restore/main/whats-new.adoc[tag=whats-new,leveloffset=+1]
+
+== Cloud Data Sense
+
+include::https://raw.githubusercontent.com/NetAppDocs/cloud-manager-data-sense/main/whats-new.adoc[tag=whats-new,leveloffset=+1]
+
+== Cloud Sync
+
+include::https://raw.githubusercontent.com/NetAppDocs/cloud-manager-sync/main/whats-new.adoc[tag=whats-new,leveloffset=+1]
+
+== Cloud Tiering
+
+include::https://raw.githubusercontent.com/NetAppDocs/cloud-manager-tiering/main/whats-new.adoc[tag=whats-new,leveloffset=+1]
+
+== Cloud Volumes ONTAP
+
+include::https://raw.githubusercontent.com/NetAppDocs/cloud-manager-cloud-volumes-ontap/main/whats-new.adoc[tag=whats-new,leveloffset=+1]
+
+== Cloud Volumes Service for GCP
+
+include::https://raw.githubusercontent.com/NetAppDocs/cloud-manager-cloud-volumes-service-gcp/main/whats-new.adoc[tag=whats-new,leveloffset=+1]
+
+== Compute
+
+include::https://raw.githubusercontent.com/NetAppDocs/cloud-manager-compute/main/whats-new.adoc[tag=whats-new,leveloffset=+1]
+
+== Connector
+
+include::https://raw.githubusercontent.com/NetAppDocs/cloud-manager-connector/main/whats-new.adoc[tag=whats-new,leveloffset=+1]
+
+== Global File Cache
+
+include::https://raw.githubusercontent.com/NetAppDocs/cloud-manager-file-cache/main/whats-new.adoc[tag=whats-new,leveloffset=+1]
+
+== Kubernetes
+
+include::https://raw.githubusercontent.com/NetAppDocs/cloud-manager-kubernetes/main/whats-new.adoc[tag=whats-new,leveloffset=+1]
+
+== Monitoring
+
+include::https://raw.githubusercontent.com/NetAppDocs/cloud-manager-monitoring/main/whats-new.adoc[tag=whats-new,leveloffset=+1]
+
+== NetApp accounts
+
+include::https://raw.githubusercontent.com/NetAppDocs/cloud-manager-accounts/main/whats-new.adoc[tag=whats-new,leveloffset=+1]
+
+== On-prem ONTAP clusters
+
+include::https://raw.githubusercontent.com/NetAppDocs/cloud-manager-ontap-onprem/main/whats-new.adoc[tag=whats-new,leveloffset=+1]
+
+== Ransomware Protection
+
+include::https://raw.githubusercontent.com/NetAppDocs/cloud-manager-ransomware/main/whats-new.adoc[tag=whats-new,leveloffset=+1]
+
+== Replication
+
+include::https://raw.githubusercontent.com/NetAppDocs/cloud-manager-replication/main/whats-new.adoc[tag=whats-new,leveloffset=+1]
+
+== SnapCenter Service
+
+include::https://raw.githubusercontent.com/NetAppDocs/cloud-manager-snapcenter/main/whats-new.adoc[tag=whats-new,leveloffset=+1]
