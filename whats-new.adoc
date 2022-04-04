@@ -62,10 +62,6 @@ include::https://raw.githubusercontent.com/NetAppDocs/cloud-manager-cloud-volume
 
 include::https://raw.githubusercontent.com/NetAppDocs/cloud-manager-compute/main/whats-new.adoc[tag=whats-new,leveloffset=+1]
 
-== Connector
-
-include::https://raw.githubusercontent.com/NetAppDocs/cloud-manager-connector/main/whats-new.adoc[tag=whats-new,leveloffset=+1]
-
 == Global File Cache
 
 include::https://raw.githubusercontent.com/NetAppDocs/cloud-manager-file-cache/main/whats-new.adoc[tag=whats-new,leveloffset=+1]
@@ -77,10 +73,6 @@ include::https://raw.githubusercontent.com/NetAppDocs/cloud-manager-kubernetes/m
 == Monitoring
 
 include::https://raw.githubusercontent.com/NetAppDocs/cloud-manager-monitoring/main/whats-new.adoc[tag=whats-new,leveloffset=+1]
-
-== NetApp accounts
-
-include::https://raw.githubusercontent.com/NetAppDocs/cloud-manager-accounts/main/whats-new.adoc[tag=whats-new,leveloffset=+1]
 
 == On-prem ONTAP clusters
 
