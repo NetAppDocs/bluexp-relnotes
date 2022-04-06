@@ -18,7 +18,9 @@ View the full set of release notes for each individual service.
 
 * https://docs.netapp.com/us-en/cloud-manager-azure-netapp-files/whats-new.html[Azure NetApp Files^]
 * https://docs.netapp.com/us-en/cloud-manager-fsx-ontap/whats-new.html[Amazon FSx for ONTAP^]
-* https://docs.netapp.com/us-en/cloud-manager-cloud-volumes-ontap/whats-new.html[Cloud Volumes ONTAP^]
+* Cloud Volumes ONTAP
+** https://docs.netapp.com/us-en/cloud-volumes-ontap-relnotes/index.html[Release notes for Cloud Volumes ONTAP^]
+** https://docs.netapp.com/us-en/cloud-manager-cloud-volumes-ontap/whats-new.html[Release notes for Cloud Volumes ONTAP management in Cloud Manager^]
 * https://docs.netapp.com/us-en/cloud-manager-cloud-volumes-service-gcp/whats-new.html[Cloud Volumes Service for Google Cloud^]
 * https://docs.netapp.com/us-en/cloud-manager-kubernetes/whats-new.html[Kubernetes clusters^]
 * https://docs.netapp.com/us-en/cloud-manager-ontap-onprem/whats-new.html[On-prem ONTAP clusters^]
