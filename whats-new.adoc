@@ -52,6 +52,14 @@ include::https://raw.githubusercontent.com/NetAppDocs/cloud-manager-tiering/main
 
 == Cloud Volumes ONTAP
 
+include::https://raw.githubusercontent.com/NetAppDocs/cloud-manager-cloud-volumes-ontap/main/_include/whats-new-may-all.adoc[tag=whats-new,leveloffset=+1]
+
+include::https://raw.githubusercontent.com/NetAppDocs/cloud-manager-cloud-volumes-ontap/main/_include/whats-new-may-azure.adoc[tag=whats-new,leveloffset=+1]
+
+include::https://raw.githubusercontent.com/NetAppDocs/cloud-manager-cloud-volumes-ontap/main/_include/whats-new-may-aws.adoc[tag=whats-new,leveloffset=+1]
+
+include::https://raw.githubusercontent.com/NetAppDocs/cloud-manager-cloud-volumes-ontap/main/_include/whats-new-may-gcp.adoc[tag=whats-new,leveloffset=+1]
+
 include::https://raw.githubusercontent.com/NetAppDocs/cloud-manager-cloud-volumes-ontap/main/whats-new.adoc[tag=whats-new,leveloffset=+1]
 
 == Cloud Volumes Service for GCP
