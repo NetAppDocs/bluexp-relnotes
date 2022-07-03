@@ -52,6 +52,18 @@ include::https://raw.githubusercontent.com/NetAppDocs/cloud-manager-tiering/main
 
 == Cloud Volumes ONTAP
 
+=== 3 July 2022
+
+The following changes were introduced with the 3.9.20 release of the Connector.
+
+include::https://raw.githubusercontent.com/NetAppDocs/cloud-manager-cloud-volumes-ontap/main/_include/whats-new-july-all.adoc[leveloffset=+1]
+
+include::https://raw.githubusercontent.com/NetAppDocs/cloud-manager-cloud-volumes-ontap/main/_include/whats-new-july-aws.adoc[leveloffset=+1]
+
+include::https://raw.githubusercontent.com/NetAppDocs/cloud-manager-cloud-volumes-ontap/main/_include/whats-new-july-azure.adoc[leveloffset=+1]
+
+include::https://raw.githubusercontent.com/NetAppDocs/cloud-manager-cloud-volumes-ontap/main/_include/whats-new-july-gcp.adoc[leveloffset=+1]
+
 === 7 June 2022
 
 The following changes were introduced with the 3.9.19 release of the Connector.
@@ -75,8 +87,6 @@ include::https://raw.githubusercontent.com/NetAppDocs/cloud-manager-cloud-volume
 include::https://raw.githubusercontent.com/NetAppDocs/cloud-manager-cloud-volumes-ontap/main/_include/whats-new-may-aws.adoc[leveloffset=+1]
 
 include::https://raw.githubusercontent.com/NetAppDocs/cloud-manager-cloud-volumes-ontap/main/_include/whats-new-may-gcp.adoc[leveloffset=+1]
-
-include::https://raw.githubusercontent.com/NetAppDocs/cloud-manager-cloud-volumes-ontap/main/whats-new.adoc[tag=whats-new,leveloffset=+1]
 
 == Cloud Volumes Service for GCP
 
