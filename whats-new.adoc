@@ -62,8 +62,6 @@ include::https://raw.githubusercontent.com/NetAppDocs/cloud-manager-cloud-volume
 
 include::https://raw.githubusercontent.com/NetAppDocs/cloud-manager-cloud-volumes-ontap/main/_include/whats-new-july-azure.adoc[leveloffset=+1]
 
-include::https://raw.githubusercontent.com/NetAppDocs/cloud-manager-cloud-volumes-ontap/main/_include/whats-new-july-gcp.adoc[leveloffset=+1]
-
 === 7 June 2022
 
 The following changes were introduced with the 3.9.19 release of the Connector.
