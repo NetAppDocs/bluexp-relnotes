@@ -52,9 +52,9 @@ include::https://raw.githubusercontent.com/NetAppDocs/cloud-manager-tiering/main
 
 == Cloud Volumes ONTAP
 
-== 18 July 2022
+=== 18 July 2022
 
-=== New licensing packages in Azure
+==== New licensing packages in Azure
 
 Two new capacity-based licensing packages are available for Cloud Volumes ONTAP in Azure when you pay through an Azure Marketplace subscription:
 
