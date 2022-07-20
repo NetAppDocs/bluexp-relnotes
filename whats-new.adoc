@@ -52,6 +52,18 @@ include::https://raw.githubusercontent.com/NetAppDocs/cloud-manager-tiering/main
 
 == Cloud Volumes ONTAP
 
+=== 18 July 2022
+
+==== New licensing packages in Azure
+
+Two new capacity-based licensing packages are available for Cloud Volumes ONTAP in Azure when you pay through an Azure Marketplace subscription:
+
+* *Optimized*: Pay for provisioned capacity and I/O operations separately
+
+* *Edge Cache*: Licensing for https://cloud.netapp.com/cloud-volumes-edge-cache[Cloud Volumes Edge Cache^]
+
+https://docs.netapp.com/us-en/cloud-manager-cloud-volumes-ontap/concept-licensing.html#packages[Learn more about these licensing packages].
+
 === 3 July 2022
 
 The following changes were introduced with the 3.9.20 release of the Connector.
@@ -73,18 +85,6 @@ include::https://raw.githubusercontent.com/NetAppDocs/cloud-manager-cloud-volume
 include::https://raw.githubusercontent.com/NetAppDocs/cloud-manager-cloud-volumes-ontap/main/_include/whats-new-june-azure.adoc[leveloffset=+1]
 
 include::https://raw.githubusercontent.com/NetAppDocs/cloud-manager-cloud-volumes-ontap/main/_include/whats-new-june-gcp.adoc[leveloffset=+1]
-
-=== 2 May 2022
-
-The following changes were introduced with the 3.9.18 release of the Connector.
-
-include::https://raw.githubusercontent.com/NetAppDocs/cloud-manager-cloud-volumes-ontap/main/_include/whats-new-may-all.adoc[leveloffset=+1]
-
-include::https://raw.githubusercontent.com/NetAppDocs/cloud-manager-cloud-volumes-ontap/main/_include/whats-new-may-azure.adoc[leveloffset=+1]
-
-include::https://raw.githubusercontent.com/NetAppDocs/cloud-manager-cloud-volumes-ontap/main/_include/whats-new-may-aws.adoc[leveloffset=+1]
-
-include::https://raw.githubusercontent.com/NetAppDocs/cloud-manager-cloud-volumes-ontap/main/_include/whats-new-may-gcp.adoc[leveloffset=+1]
 
 == Cloud Volumes Service for GCP
 
