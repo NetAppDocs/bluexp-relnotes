@@ -52,6 +52,12 @@ include::https://raw.githubusercontent.com/NetAppDocs/cloud-manager-tiering/main
 
 == Cloud Volumes ONTAP
 
+=== 31 July 2022
+
+The following changes were introduced with the 3.9.21 release of the Connector.
+
+include::https://raw.githubusercontent.com/NetAppDocs/cloud-manager-cloud-volumes-ontap/main/_include/whats-new-aug-all.adoc[leveloffset=+1]
+
 === 18 July 2022
 
 ==== New licensing packages in Azure
@@ -73,18 +79,6 @@ include::https://raw.githubusercontent.com/NetAppDocs/cloud-manager-cloud-volume
 include::https://raw.githubusercontent.com/NetAppDocs/cloud-manager-cloud-volumes-ontap/main/_include/whats-new-july-aws.adoc[leveloffset=+1]
 
 include::https://raw.githubusercontent.com/NetAppDocs/cloud-manager-cloud-volumes-ontap/main/_include/whats-new-july-azure.adoc[leveloffset=+1]
-
-=== 7 June 2022
-
-The following changes were introduced with the 3.9.19 release of the Connector.
-
-include::https://raw.githubusercontent.com/NetAppDocs/cloud-manager-cloud-volumes-ontap/main/_include/whats-new-june-all.adoc[leveloffset=+1]
-
-include::https://raw.githubusercontent.com/NetAppDocs/cloud-manager-cloud-volumes-ontap/main/_include/whats-new-june-aws.adoc[leveloffset=+1]
-
-include::https://raw.githubusercontent.com/NetAppDocs/cloud-manager-cloud-volumes-ontap/main/_include/whats-new-june-azure.adoc[leveloffset=+1]
-
-include::https://raw.githubusercontent.com/NetAppDocs/cloud-manager-cloud-volumes-ontap/main/_include/whats-new-june-gcp.adoc[leveloffset=+1]
 
 == Cloud Volumes Service for GCP
 
