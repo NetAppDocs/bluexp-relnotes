@@ -1,7 +1,7 @@
 ---
 sidebar: sidebar
 permalink: whats-new.html
-keywords: what's new, features, new, release notes, enhancements, fixes
+keywords: what's new, features, new, release notes, enhancements, fixes, new features
 summary: Learn about the most recent changes to the cloud services that are part of the Cloud Manager platform. For more details, go to the full set of release notes for each individual service.
 ---
 
