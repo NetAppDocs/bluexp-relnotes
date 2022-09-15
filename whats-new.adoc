@@ -88,6 +88,10 @@ include::https://raw.githubusercontent.com/NetAppDocs/cloud-manager-cloud-volume
 
 include::https://raw.githubusercontent.com/NetAppDocs/cloud-manager-compute/main/whats-new.adoc[tag=whats-new,leveloffset=+1]
 
+== E-Series systems
+
+include::https://raw.githubusercontent.com/NetAppDocs/cloud-manager-e-series/main/whats-new.adoc[tag=whats-new,leveloffset=+1]
+
 == Global File Cache
 
 include::https://raw.githubusercontent.com/NetAppDocs/cloud-manager-file-cache/main/whats-new.adoc[tag=whats-new,leveloffset=+1]
@@ -115,3 +119,7 @@ include::https://raw.githubusercontent.com/NetAppDocs/cloud-manager-replication/
 == SnapCenter Service
 
 include::https://raw.githubusercontent.com/NetAppDocs/cloud-manager-snapcenter/main/whats-new.adoc[tag=whats-new,leveloffset=+1]
+
+== StorageGRID
+
+include::https://raw.githubusercontent.com/NetAppDocs/cloud-manager-storagegrid/main/whats-new.adoc[tag=whats-new,leveloffset=+1]

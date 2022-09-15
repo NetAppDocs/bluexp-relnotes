@@ -22,8 +22,10 @@ View the full set of release notes for each individual service.
 ** https://docs.netapp.com/us-en/cloud-volumes-ontap-relnotes/index.html[Release notes for Cloud Volumes ONTAP^]
 ** https://docs.netapp.com/us-en/cloud-manager-cloud-volumes-ontap/whats-new.html[Release notes for Cloud Volumes ONTAP management in Cloud Manager^]
 * https://docs.netapp.com/us-en/cloud-manager-cloud-volumes-service-gcp/whats-new.html[Cloud Volumes Service for Google Cloud^]
+* https://docs.netapp.com/us-en/cloud-manager-e-series/whats-new.html[E-Series systems^]
 * https://docs.netapp.com/us-en/cloud-manager-kubernetes/whats-new.html[Kubernetes clusters^]
 * https://docs.netapp.com/us-en/cloud-manager-ontap-onprem/whats-new.html[On-prem ONTAP clusters^]
+* https://docs.netapp.com/us-en/cloud-manager-storagegrid/whats-new.html[StorageGRID^]
 
 == Data services
 
@@ -41,4 +43,4 @@ View the full set of release notes for each individual service.
 
 == Administration
 
-* https://docs.netapp.com/us-en/cloud-manager-setup-admin/whats-new.html[Set up and adminstration^]
+* https://docs.netapp.com/us-en/cloud-manager-setup-admin/whats-new.html[Set up and administration^]
