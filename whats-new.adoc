@@ -80,7 +80,7 @@ You can now optimize the cost and performance of a Cloud Volumes ONTAP system di
 
 After you select a working environment, you can choose the *Optimize Cost & Performance* option to change the instance type for Cloud Volumes ONTAP. Choosing a smaller-sized instance can help you reduce costs, while changing to a larger-sized instance can help you optimize performance.
 
-image:https://raw.githubusercontent.com/NetAppDocs/cloud-manager-cloud-volumes-ontap/main/media/screenshot-optimized-cost-performance.png["A screenshot of the Optimize Cost & Performance option that's available from the Canvas after you select a working environment."]
+image:https://raw.githubusercontent.com/NetAppDocs/cloud-manager-cloud-volumes-ontap/main/media/screenshot-optimize-cost-performance.png["A screenshot of the Optimize Cost & Performance option that's available from the Canvas after you select a working environment."]
 
 ==== AutoSupport notifications
 
