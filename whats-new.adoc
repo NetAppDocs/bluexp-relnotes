@@ -54,13 +54,7 @@ include::https://raw.githubusercontent.com/NetAppDocs/cloud-manager-tiering/main
 
 === 18 Sept 2022
 
-The following changes were introduced with the 3.9.21 release of the Connector.
-
-==== Cloud Volumes ONTAP 9.12.0
-
-Cloud Manager can now deploy and manage Cloud Volumes ONTAP 9.12.0.
-
-https://docs.netapp.com/us-en/cloud-volumes-ontap-relnotes[Learn about the new features included in this release of Cloud Volumes ONTAP^].
+The following changes were introduced with the 3.9.22 release of the Connector.
 
 ==== Digital Wallet enhancements
 
