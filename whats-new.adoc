@@ -80,13 +80,6 @@ image:https://raw.githubusercontent.com/NetAppDocs/cloud-manager-cloud-volumes-o
 
 Cloud Manager will now generate a notification if a Cloud Volumes ONTAP system is unable to send AutoSupport messages. The notification includes a link to instructions that you can use to troubleshoot networking issues.
 
-==== Password for new storage VMs
-
-When you create a storage VM on HA pairs in Google Cloud using the API, you can now specify the password for the vsadmin user.
-
-https://docs.netapp.com/us-en/cloud-manager-cloud-volumes-ontap/task-managing-svms-gcp.html[Learn how to create data-serving storage VMs for Cloud Volumes ONTAP in Google Cloud].
-endif::gcp[]
-
 === 31 July 2022
 
 The following changes were introduced with the 3.9.21 release of the Connector.
