@@ -1,7 +1,7 @@
 ---
 sidebar: sidebar
 permalink: whats-new.html
-keywords: what's new, features, new, release notes, enhancements, fixes, new features
+keywords: what's new, features, new, release notes, enhancements, fixes, new features, cloud
 summary: Learn about the most recent changes to the cloud services that are part of the Cloud Manager platform. For more details, go to the full set of release notes for each individual service.
 ---
 
@@ -52,51 +52,7 @@ include::https://raw.githubusercontent.com/NetAppDocs/cloud-manager-tiering/main
 
 == Cloud Volumes ONTAP
 
-=== 18 Sept 2022
-
-The following changes were introduced with the 3.9.22 release of the Connector.
-
-==== Digital Wallet enhancements
-
-* The Digital Wallet now shows a summary of the Optimized I/O licensing package and the provisioned WORM capacity for Cloud Volumes ONTAP systems across your account.
-+
-These details can help you better understand how you're being charged and whether you need to purchase additional capacity.
-+
-https://docs.netapp.com/us-en/cloud-manager-cloud-volumes-ontap/task-manage-capacity-licenses.html[Learn how to view the consumed capacity in your account].
-
-* You can now change from one charging method to the Optimized charging method.
-+
-https://docs.netapp.com/us-en/cloud-manager-cloud-volumes-ontap/task-manage-capacity-licenses.html[Learn how to change charging methods].
-
-==== Optimize cost and performance
-
-You can now optimize the cost and performance of a Cloud Volumes ONTAP system directly from the Canvas.
-
-After you select a working environment, you can choose the *Optimize Cost & Performance* option to change the instance type for Cloud Volumes ONTAP. Choosing a smaller-sized instance can help you reduce costs, while changing to a larger-sized instance can help you optimize performance.
-
-image:https://raw.githubusercontent.com/NetAppDocs/cloud-manager-cloud-volumes-ontap/main/media/screenshot-optimize-cost-performance.png["A screenshot of the Optimize Cost & Performance option that's available from the Canvas after you select a working environment."]
-
-==== AutoSupport notifications
-
-Cloud Manager will now generate a notification if a Cloud Volumes ONTAP system is unable to send AutoSupport messages. The notification includes a link to instructions that you can use to troubleshoot networking issues.
-
-=== 31 July 2022
-
-The following changes were introduced with the 3.9.21 release of the Connector.
-
-include::https://raw.githubusercontent.com/NetAppDocs/cloud-manager-cloud-volumes-ontap/main/_include/whats-new-aug-all.adoc[leveloffset=+1]
-
-=== 18 July 2022
-
-==== New licensing packages in Azure
-
-Two new capacity-based licensing packages are available for Cloud Volumes ONTAP in Azure when you pay through an Azure Marketplace subscription:
-
-* *Optimized*: Pay for provisioned capacity and I/O operations separately
-
-* *Edge Cache*: Licensing for https://cloud.netapp.com/cloud-volumes-edge-cache[Cloud Volumes Edge Cache^]
-
-https://docs.netapp.com/us-en/cloud-manager-cloud-volumes-ontap/concept-licensing.html#packages[Learn more about these licensing packages].
+include::https://raw.githubusercontent.com/NetAppDocs/cloud-manager-cloud-volumes-ontap/main/whats-new.adoc[tag=whats-new,leveloffset=+1]
 
 == Cloud Volumes Service for GCP
 
