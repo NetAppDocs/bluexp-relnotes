@@ -8,21 +8,21 @@ settings:
   rss_page: "whats-new.html"
 sidebar:
   entries:
-    - title: Cloud Manager release notes
+    - title: BlueXP release notes
       url: /index.html
     - title: Recent changes
       url: /whats-new.html
-    - title: Release notes index
+    - title: BlueXP index
       url: /release-notes-index.html
 product-family:
-  name: Cloud Manager
+  name: BlueXP
   repo: cloud-manager-family
-  sidebar_label: All Cloud Manager documentation
+  sidebar_label: All BlueXP documentation
 homepage:
   tiles:
     - title: What's new
       links:
-        - title: Recent changes in Cloud Manager
+        - title: Recent changes in BlueXP
           url: whats-new.html
     - title: Release notes by service
       links:
@@ -32,7 +32,7 @@ homepage:
       links:
         - title: NetApp Community
           url: https://community.netapp.com/t5/Cloud-Data-Services/ct-p/CDS
-        - title: Cloud Central blog
+        - title: BlueXP website blog
           url: https://cloud.netapp.com/blog
         - title: Cloud webinars
           url: https://cloud.netapp.com/events
