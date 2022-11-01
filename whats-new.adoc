@@ -1,11 +1,11 @@
 ---
 sidebar: sidebar
 permalink: whats-new.html
-keywords: what's new, features, new, release notes, enhancements, fixes, new features, cloud
-summary: Learn about the most recent changes to the cloud services that are part of the Cloud Manager platform. For more details, go to the full set of release notes for each individual service.
+keywords: what's new, features, new, release notes, enhancements, fixes, new features, cloud, cloud manager, bluexp
+summary: Learn about the most recent changes to the cloud services that are part of the BlueXP platform. For more details, go to the full set of release notes for each individual service.
 ---
 
-= Recent changes in Cloud Manager
+= Recent changes in BlueXP
 :toc: macro
 :hardbreaks:
 :nofooter:
@@ -14,11 +14,15 @@ summary: Learn about the most recent changes to the cloud services that are part
 :imagesdir: ./media/
 
 [.lead]
-Learn about the most recent changes to the cloud services that are part of the Cloud Manager platform. For more details, go to the link:release-notes-index.html[full set of release notes] for each individual service.
+Learn about the most recent changes to the cloud services that are part of the BlueXP platform (previously Cloud Manager). For more details, go to the link:release-notes-index.html[full set of release notes] for each individual service.
+
+== Introduction of BlueXP
+
+Cloud Manager was renamed to BlueXP on 1 November, 2022. https://docs.netapp.com/us-en/cloud-manager-family/concept-overview.html[Learn more about BlueXP^]
 
 == Administrative features
 
-This section describes new features related to Cloud Manager's administration features: Accounts, Connectors, cloud provider credentials, and more.
+This section describes new features related to BlueXP administration features: Accounts, Connectors, cloud provider credentials, and more.
 
 include::https://raw.githubusercontent.com/NetAppDocs/cloud-manager-setup-admin/main/whats-new.adoc[tag=whats-new,leveloffset=+1]
 
@@ -62,6 +66,16 @@ include::https://raw.githubusercontent.com/NetAppDocs/cloud-manager-cloud-volume
 
 include::https://raw.githubusercontent.com/NetAppDocs/cloud-manager-compute/main/whats-new.adoc[tag=whats-new,leveloffset=+1]
 
+== Digital Advisor
+
+=== 1 November 2022
+
+Digital Advisor (formerly Active IQ) is now fully integrated with BlueXP and has an enhanced login experience. 
+
+When you access Digital Advisor in BlueXP, you're now prompted for your NetApp Support Site credentials so that you can view data related to your systems. The NSS account that you log in with is associated with your user login only. It's not associated with any other users in your NetApp account.
+
+For more details about Digital Advisor integration with BlueXP, go to the https://docs.netapp.com/us-en/active-iq/index.html[Digital Advisor documentation^]
+
 == E-Series systems
 
 include::https://raw.githubusercontent.com/NetAppDocs/cloud-manager-e-series/main/whats-new.adoc[tag=whats-new,leveloffset=+1]
@@ -76,7 +90,7 @@ include::https://raw.githubusercontent.com/NetAppDocs/cloud-manager-kubernetes/m
 
 == Monitoring
 
-include::https://raw.githubusercontent.com/NetAppDocs/cloud-manager-monitoring/main/whats-new.adoc[tag=whats-new,leveloffset=+1]
+The Monitoring service was retired on 1 November, 2022. You can now find a direct link to Cloud Insights from the navigation menu by selecting *Insights > Observability*.
 
 == On-prem ONTAP clusters
 
@@ -90,9 +104,9 @@ include::https://raw.githubusercontent.com/NetAppDocs/cloud-manager-ransomware/m
 
 include::https://raw.githubusercontent.com/NetAppDocs/cloud-manager-replication/main/whats-new.adoc[tag=whats-new,leveloffset=+1]
 
-== SnapCenter Service
+== SnapCenter service
 
-include::https://raw.githubusercontent.com/NetAppDocs/cloud-manager-snapcenter/main/whats-new.adoc[tag=whats-new,leveloffset=+1]
+The SnapCenter service was retired on 1 November, 2022.
 
 == StorageGRID
 
