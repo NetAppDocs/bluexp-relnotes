@@ -2,8 +2,8 @@
 layout: astra
 sidebar: sidebar
 permalink: index.html
-lead: These release notes describe recent enhancements to the cloud services that are part of the BlueXP platform. Links are available to the full set of release notes for each individual service.
-summary: These release notes describe recent enhancements to the cloud services that are part of the BlueXP platform. Links are available to the full set of release notes for each individual service.
+lead: These release notes describe recent enhancements to the cloud services that are part of BlueXP (formerly Cloud Manager). Links are available to the full set of release notes for each individual service.
+summary: "These release notes describe recent enhancements to the cloud services that are part of BlueXP (formerly Cloud Manager). Links are available to the full set of release notes for each individual service."
 ---
 
 = BlueXP release notes
