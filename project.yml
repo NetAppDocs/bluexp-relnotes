@@ -31,8 +31,8 @@ homepage:
     - title: Blogs & community
       links:
         - title: NetApp Community
-          url: https://community.netapp.com/t5/Cloud-Data-Services/ct-p/CDS
-        - title: BlueXP website blog
-          url: https://cloud.netapp.com/blog
+          url: https://community.netapp.com/t5/Public-Cloud-Services/ct-p/CDS
+        - title: BlueXP blogs
+          url: https://bluexp.netapp.com/blog
         - title: Cloud webinars
-          url: https://cloud.netapp.com/events
+          url: https://bluexp.netapp.com/events
