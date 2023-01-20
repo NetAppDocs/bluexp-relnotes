@@ -36,7 +36,7 @@ View the full set of release notes for each individual service.
 * https://docs.netapp.com/us-en/cloud-manager-tiering/whats-new.html[Cloud Tiering^]
 * https://docs.netapp.com/us-en/cloud-manager-compute/whats-new.html[Compute^]
 * https://docs.netapp.com/us-en/cloud-manager-file-cache/whats-new.html[Global File Cache^]
-* https://docs.netapp.com/us-en/cloud-manager-ransomware/whats-new.html[Ransomware^]
+* https://docs.netapp.com/us-en/cloud-manager-ransomware/whats-new.html[Ransomware Protection^]
 * https://docs.netapp.com/us-en/cloud-manager-replication/whats-new.html[Replication^]
 
 == Administration
