@@ -34,6 +34,10 @@ include::https://raw.githubusercontent.com/NetAppDocs/cloud-manager-azure-netapp
 
 include::https://raw.githubusercontent.com/NetAppDocs/cloud-manager-fsx-ontap/main/whats-new.adoc[tag=whats-new,leveloffset=+1]
 
+== Amazon S3 storage
+
+include::https://raw.githubusercontent.com/NetAppDocs/bluexp-s3-storage/main/whats-new.adoc[tag=whats-new,leveloffset=+1]
+
 == Application Template
 
 include::https://raw.githubusercontent.com/NetAppDocs/cloud-manager-app-template/main/whats-new.adoc[tag=whats-new,leveloffset=+1]
