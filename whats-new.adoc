@@ -80,6 +80,10 @@ When you access Digital Advisor in BlueXP, you're now prompted for your NetApp S
 
 For more details about Digital Advisor integration with BlueXP, go to the https://docs.netapp.com/us-en/active-iq/index.html[Digital Advisor documentation^]
 
+== Economic efficiency
+
+include::https://raw.githubusercontent.com/NetAppDocs/bluexp-economic-efficiency/main/release-notes/whats-new.adoc[tag=whats-new,leveloffset=+1]
+
 == E-Series systems
 
 include::https://raw.githubusercontent.com/NetAppDocs/cloud-manager-e-series/main/whats-new.adoc[tag=whats-new,leveloffset=+1]
@@ -101,6 +105,10 @@ The Monitoring service was retired on 1 November, 2022. You can now find a direc
 == On-prem ONTAP clusters
 
 include::https://raw.githubusercontent.com/NetAppDocs/cloud-manager-ontap-onprem/main/whats-new.adoc[tag=whats-new,leveloffset=+1]
+ 
+== Operational resiliency
+
+include::https://raw.githubusercontent.com/NetAppDocs/bluexp-operational-resiliency/main/release-notes/whats-new.adoc[tag=whats-new,leveloffset=+1]
 
 == Ransomware Protection
 
