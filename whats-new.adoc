@@ -1,7 +1,7 @@
 ---
 sidebar: sidebar
 permalink: whats-new.html
-keywords: what's new, features, new, release notes, enhancements, fixes, new features, cloud, cloud manager, bluexp, cloud volumes ontap, kubernetes, cloud backup, cloud tiering, data sense, ransomware, connector, amazon fsx for ontap, azure netapp files, cloud sync, e-series, global file cache
+keywords: what's new, features, new, release notes, enhancements, fixes, new features, cloud, cloud manager, bluexp, cloud volumes ontap, kubernetes, cloud backup, cloud tiering, data sense, ransomware, connector, amazon fsx for ontap, azure netapp files, cloud sync, e-series, global file cache, cloud manager, bluexp
 summary: Learn about the most recent changes to the cloud services that are part of the BlueXP platform. For more details, go to the full set of release notes for each individual service.
 ---
 
@@ -18,7 +18,7 @@ Learn about the most recent changes to the cloud services that are part of the B
 
 == Introduction of BlueXP
 
-Cloud Manager was renamed to BlueXP on 1 November, 2022. https://docs.netapp.com/us-en/cloud-manager-family/concept-overview.html[Learn more about BlueXP^]
+NetApp BlueXP was launched on 1 November, 2022. BlueXP extends and enhances the capabilities that were provided through Cloud Manager. https://docs.netapp.com/us-en/cloud-manager-family/concept-overview.html[Learn more about the introduction of BlueXP^]
 
 == Administrative features
 
