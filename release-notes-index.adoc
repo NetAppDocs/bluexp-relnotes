@@ -14,6 +14,10 @@ permalink: release-notes-index.html
 [.lead]
 View the full set of release notes for each individual service.
 
+== Administration
+
+https://docs.netapp.com/us-en/cloud-manager-setup-admin/whats-new.html[Setup and administration^]
+
 == Storage
 
 * https://docs.netapp.com/us-en/cloud-manager-azure-netapp-files/whats-new.html[Azure NetApp Files^]
@@ -36,12 +40,9 @@ View the full set of release notes for each individual service.
 * https://docs.netapp.com/us-en/cloud-manager-sync/whats-new.html[Cloud Sync^]
 * https://docs.netapp.com/us-en/cloud-manager-tiering/whats-new.html[Cloud Tiering^]
 * https://docs.netapp.com/us-en/cloud-manager-compute/whats-new.html[Compute^]
+* https://docs.netapp.com/us-en/bluexp-digital-wallet/index.html[Digital wallet^]
 * https://docs.netapp.com/us-en/bluexp-economic-efficiency/index.html[Economic efficiency^]
 * https://docs.netapp.com/us-en/cloud-manager-file-cache/whats-new.html[Global File Cache^]
 * https://docs.netapp.com/us-en/bluexp-operational-resiliency/index.html[Operational resiliency^]
 * https://docs.netapp.com/us-en/cloud-manager-ransomware/whats-new.html[Ransomware Protection^]
 * https://docs.netapp.com/us-en/cloud-manager-replication/whats-new.html[Replication^]
-
-== Administration
-
-* https://docs.netapp.com/us-en/cloud-manager-setup-admin/whats-new.html[Set up and administration^]
