@@ -38,25 +38,13 @@ include::https://raw.githubusercontent.com/NetAppDocs/cloud-manager-fsx-ontap/ma
 
 include::https://raw.githubusercontent.com/NetAppDocs/bluexp-s3-storage/main/whats-new.adoc[tag=whats-new,leveloffset=+1]
 
-== Application Template
-
-include::https://raw.githubusercontent.com/NetAppDocs/cloud-manager-app-template/main/whats-new.adoc[tag=whats-new,leveloffset=+1]
-
-== Cloud Backup
+== Backup and recovery
 
 include::https://raw.githubusercontent.com/NetAppDocs/cloud-manager-backup-restore/main/whats-new.adoc[tag=whats-new,leveloffset=+1]
 
-== Cloud Data Sense
+== Classification
 
 include::https://raw.githubusercontent.com/NetAppDocs/cloud-manager-data-sense/main/whats-new.adoc[tag=whats-new,leveloffset=+1]
-
-== Cloud Sync
-
-include::https://raw.githubusercontent.com/NetAppDocs/cloud-manager-sync/main/whats-new.adoc[tag=whats-new,leveloffset=+1]
-
-== Cloud Tiering
-
-include::https://raw.githubusercontent.com/NetAppDocs/cloud-manager-tiering/main/whats-new.adoc[tag=whats-new,leveloffset=+1]
 
 == Cloud Volumes ONTAP
 
@@ -66,29 +54,33 @@ include::https://raw.githubusercontent.com/NetAppDocs/cloud-manager-cloud-volume
 
 include::https://raw.githubusercontent.com/NetAppDocs/cloud-manager-cloud-volumes-service-gcp/main/whats-new.adoc[tag=whats-new,leveloffset=+1]
 
-== Compute
+== Cloud ops
 
 include::https://raw.githubusercontent.com/NetAppDocs/cloud-manager-compute/main/whats-new.adoc[tag=whats-new,leveloffset=+1]
 
-== Digital Advisor
+== Copy and sync
+
+include::https://raw.githubusercontent.com/NetAppDocs/cloud-manager-sync/main/whats-new.adoc[tag=whats-new,leveloffset=+1]
+
+== Digital advisor
 
 === 1 November 2022
 
-Digital Advisor (formerly Active IQ) is now fully integrated with BlueXP and has an enhanced login experience. 
+Digital advisor (formerly Active IQ) is now fully integrated with BlueXP and has an enhanced login experience. 
 
-When you access Digital Advisor in BlueXP, you're now prompted for your NetApp Support Site credentials so that you can view data related to your systems. The NSS account that you log in with is associated with your user login only. It's not associated with any other users in your NetApp account.
+When you access BlueXP digital advisor, you're now prompted for your NetApp Support Site credentials so that you can view data related to your systems. The NSS account that you log in with is associated with your user login only. It's not associated with any other users in your NetApp account.
 
-For more details about Digital Advisor integration with BlueXP, go to the https://docs.netapp.com/us-en/active-iq/index.html[Digital Advisor documentation^]
-
-== Economic efficiency
-
-include::https://raw.githubusercontent.com/NetAppDocs/bluexp-economic-efficiency/main/release-notes/whats-new.adoc[tag=whats-new,leveloffset=+1]
+https://docs.netapp.com/us-en/active-iq/index.html[Learn more about BlueXP digital advisor^]
 
 == E-Series systems
 
 include::https://raw.githubusercontent.com/NetAppDocs/cloud-manager-e-series/main/whats-new.adoc[tag=whats-new,leveloffset=+1]
 
-== Global File Cache
+== Economic efficiency
+
+include::https://raw.githubusercontent.com/NetAppDocs/bluexp-economic-efficiency/main/release-notes/whats-new.adoc[tag=whats-new,leveloffset=+1]
+
+== Edge caching
 
 include::https://raw.githubusercontent.com/NetAppDocs/cloud-manager-file-cache/main/whats-new.adoc[tag=whats-new,leveloffset=+1]
 
@@ -110,9 +102,13 @@ include::https://raw.githubusercontent.com/NetAppDocs/cloud-manager-ontap-onprem
 
 include::https://raw.githubusercontent.com/NetAppDocs/bluexp-operational-resiliency/main/release-notes/whats-new.adoc[tag=whats-new,leveloffset=+1]
 
-== Ransomware Protection
+== Ransomware protection
 
 include::https://raw.githubusercontent.com/NetAppDocs/cloud-manager-ransomware/main/whats-new.adoc[tag=whats-new,leveloffset=+1]
+
+== Remediation
+
+include::https://raw.githubusercontent.com/NetAppDocs/cloud-manager-app-template/main/whats-new.adoc[tag=whats-new,leveloffset=+1]
 
 == Replication
 
@@ -127,3 +123,7 @@ The SnapCenter service was retired on 1 November, 2022.
 == StorageGRID
 
 include::https://raw.githubusercontent.com/NetAppDocs/cloud-manager-storagegrid/main/whats-new.adoc[tag=whats-new,leveloffset=+1]
+
+== Tiering
+
+include::https://raw.githubusercontent.com/NetAppDocs/cloud-manager-tiering/main/whats-new.adoc[tag=whats-new,leveloffset=+1]
