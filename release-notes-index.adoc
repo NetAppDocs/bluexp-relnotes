@@ -16,7 +16,7 @@ View the full set of release notes for each individual service.
 
 == Administration
 
-* https://docs.netapp.com/us-en/cloud-manager-setup-admin/whats-new.html[Set up and administration^]
+https://docs.netapp.com/us-en/cloud-manager-setup-admin/whats-new.html[Setup and administration^]
 
 == Storage
 
@@ -38,6 +38,7 @@ View the full set of release notes for each individual service.
 * https://docs.netapp.com/us-en/cloud-manager-data-sense/whats-new.html[Classification^]
 * https://docs.netapp.com/us-en/cloud-manager-compute/whats-new.html[Cloud ops^]
 * https://docs.netapp.com/us-en/cloud-manager-sync/whats-new.html[Copy and sync^]
+* https://docs.netapp.com/us-en/bluexp-digital-wallet/index.html[Digital wallet^]
 * https://docs.netapp.com/us-en/bluexp-economic-efficiency/index.html[Economic efficiency^]
 * https://docs.netapp.com/us-en/cloud-manager-file-cache/whats-new.html[Edge caching^]
 * https://docs.netapp.com/us-en/bluexp-operational-resiliency/index.html[Operational resiliency^]
