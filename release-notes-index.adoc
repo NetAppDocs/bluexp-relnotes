@@ -16,33 +16,33 @@ View the full set of release notes for each individual service.
 
 == Administration
 
-https://docs.netapp.com/us-en/cloud-manager-setup-admin/whats-new.html[Setup and administration^]
+https://docs.netapp.com/us-en/bluexp-setup-admin/whats-new.html[Setup and administration^]
 
 == Storage
 
-* https://docs.netapp.com/us-en/cloud-manager-azure-netapp-files/whats-new.html[Azure NetApp Files^]
-* https://docs.netapp.com/us-en/cloud-manager-fsx-ontap/whats-new.html[Amazon FSx for ONTAP^]
+* https://docs.netapp.com/us-en/bluexp-azure-netapp-files/whats-new.html[Azure NetApp Files^]
+* https://docs.netapp.com/us-en/bluexp-fsx-ontap/whats-new.html[Amazon FSx for ONTAP^]
 * https://docs.netapp.com/us-en/bluexp-s3-storage/whats-new.html[Amazon S3 storage^]
 * Cloud Volumes ONTAP
 ** https://docs.netapp.com/us-en/cloud-volumes-ontap-relnotes/index.html[Release notes for Cloud Volumes ONTAP^]
-** https://docs.netapp.com/us-en/cloud-manager-cloud-volumes-ontap/whats-new.html[Release notes for Cloud Volumes ONTAP management in BlueXP^]
-* https://docs.netapp.com/us-en/cloud-manager-cloud-volumes-service-gcp/whats-new.html[Cloud Volumes Service for Google Cloud^]
-* https://docs.netapp.com/us-en/cloud-manager-e-series/whats-new.html[E-Series systems^]
-* https://docs.netapp.com/us-en/cloud-manager-kubernetes/whats-new.html[Kubernetes clusters^]
-* https://docs.netapp.com/us-en/cloud-manager-ontap-onprem/whats-new.html[On-prem ONTAP clusters^]
-* https://docs.netapp.com/us-en/cloud-manager-storagegrid/whats-new.html[StorageGRID^]
+** https://docs.netapp.com/us-en/bluexp-cloud-volumes-ontap/whats-new.html[Release notes for Cloud Volumes ONTAP management in BlueXP^]
+* https://docs.netapp.com/us-en/bluexp-cloud-volumes-service-gcp/whats-new.html[Cloud Volumes Service for Google Cloud^]
+* https://docs.netapp.com/us-en/bluexp-e-series/whats-new.html[E-Series systems^]
+* https://docs.netapp.com/us-en/bluexp-kubernetes/whats-new.html[Kubernetes clusters^]
+* https://docs.netapp.com/us-en/bluexp-ontap-onprem/whats-new.html[On-prem ONTAP clusters^]
+* https://docs.netapp.com/us-en/bluexp-storagegrid/whats-new.html[StorageGRID^]
 
 == Data services
 
-* https://docs.netapp.com/us-en/cloud-manager-backup-restore/whats-new.html[Backup and recovery^]
-* https://docs.netapp.com/us-en/cloud-manager-data-sense/whats-new.html[Classification^]
-* https://docs.netapp.com/us-en/cloud-manager-compute/whats-new.html[Cloud ops^]
-* https://docs.netapp.com/us-en/cloud-manager-sync/whats-new.html[Copy and sync^]
+* https://docs.netapp.com/us-en/bluexp-backup-recovery/whats-new.html[Backup and recovery^]
+* https://docs.netapp.com/us-en/bluexp-classification/whats-new.html[Classification^]
+* https://docs.netapp.com/us-en/bluexp-cloud-ops/whats-new.html[Cloud ops^]
+* https://docs.netapp.com/us-en/bluexp-copy-sync/whats-new.html[Copy and sync^]
 * https://docs.netapp.com/us-en/bluexp-digital-wallet/index.html[Digital wallet^]
 * https://docs.netapp.com/us-en/bluexp-economic-efficiency/index.html[Economic efficiency^]
-* https://docs.netapp.com/us-en/cloud-manager-file-cache/whats-new.html[Edge caching^]
+* https://docs.netapp.com/us-en/bluexp-edge-caching/whats-new.html[Edge caching^]
 * https://docs.netapp.com/us-en/bluexp-operational-resiliency/index.html[Operational resiliency^]
-* https://docs.netapp.com/us-en/cloud-manager-ransomware/whats-new.html[Ransomware protection^]
-* https://docs.netapp.com/us-en/cloud-manager-app-template/whats-new.html[Remediation^]
-* https://docs.netapp.com/us-en/cloud-manager-replication/whats-new.html[Replication^]
-* https://docs.netapp.com/us-en/cloud-manager-tiering/whats-new.html[Tiering^]
+* https://docs.netapp.com/us-en/bluexp-ransomware-protection/whats-new.html[Ransomware protection^]
+* https://docs.netapp.com/us-en/bluexp-remediation/whats-new.html[Remediation^]
+* https://docs.netapp.com/us-en/bluexp-replication/whats-new.html[Replication^]
+* https://docs.netapp.com/us-en/bluexp-tiering/whats-new.html[Tiering^]

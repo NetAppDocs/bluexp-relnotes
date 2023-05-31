@@ -18,21 +18,21 @@ Learn about the most recent changes to the cloud services that are part of the B
 
 == Introduction of BlueXP
 
-NetApp BlueXP was launched on 1 November, 2022. BlueXP extends and enhances the capabilities that were provided through Cloud Manager. https://docs.netapp.com/us-en/cloud-manager-family/concept-overview.html[Learn more about the introduction of BlueXP^]
+NetApp BlueXP was launched on 1 November, 2022. BlueXP extends and enhances the capabilities that were provided through Cloud Manager. https://docs.netapp.com/us-en/bluexp-family/concept-overview.html[Learn more about the introduction of BlueXP^]
 
 == Administrative features
 
 This section describes new features related to BlueXP administration features: Accounts, Connectors, cloud provider credentials, and more.
 
-include::https://raw.githubusercontent.com/NetAppDocs/cloud-manager-setup-admin/main/whats-new.adoc[tag=whats-new,leveloffset=+1]
+include::https://raw.githubusercontent.com/NetAppDocs/bluexp-setup-admin/main/whats-new.adoc[tag=whats-new,leveloffset=+1]
 
 == Azure NetApp Files
 
-include::https://raw.githubusercontent.com/NetAppDocs/cloud-manager-azure-netapp-files/main/whats-new.adoc[tag=whats-new,leveloffset=+1]
+include::https://raw.githubusercontent.com/NetAppDocs/bluexp-azure-netapp-files/main/whats-new.adoc[tag=whats-new,leveloffset=+1]
 
 == Amazon FSx for ONTAP
 
-include::https://raw.githubusercontent.com/NetAppDocs/cloud-manager-fsx-ontap/main/whats-new.adoc[tag=whats-new,leveloffset=+1]
+include::https://raw.githubusercontent.com/NetAppDocs/bluexp-fsx-ontap/main/whats-new.adoc[tag=whats-new,leveloffset=+1]
 
 == Amazon S3 storage
 
@@ -40,27 +40,27 @@ include::https://raw.githubusercontent.com/NetAppDocs/bluexp-s3-storage/main/wha
 
 == Backup and recovery
 
-include::https://raw.githubusercontent.com/NetAppDocs/cloud-manager-backup-restore/main/whats-new.adoc[tag=whats-new,leveloffset=+1]
+include::https://raw.githubusercontent.com/NetAppDocs/bluexp-backup-recovery/main/whats-new.adoc[tag=whats-new,leveloffset=+1]
 
 == Classification
 
-include::https://raw.githubusercontent.com/NetAppDocs/cloud-manager-data-sense/main/whats-new.adoc[tag=whats-new,leveloffset=+1]
+include::https://raw.githubusercontent.com/NetAppDocs/bluexp-classification/main/whats-new.adoc[tag=whats-new,leveloffset=+1]
 
 == Cloud Volumes ONTAP
 
-include::https://raw.githubusercontent.com/NetAppDocs/cloud-manager-cloud-volumes-ontap/main/whats-new.adoc[tag=whats-new,leveloffset=+1]
+include::https://raw.githubusercontent.com/NetAppDocs/bluexp-cloud-volumes-ontap/main/whats-new.adoc[tag=whats-new,leveloffset=+1]
 
-== Cloud Volumes Service for GCP
+== Cloud Volumes Service for Google Cloud
 
-include::https://raw.githubusercontent.com/NetAppDocs/cloud-manager-cloud-volumes-service-gcp/main/whats-new.adoc[tag=whats-new,leveloffset=+1]
+include::https://raw.githubusercontent.com/NetAppDocs/bluexp-cloud-volumes-service-gcp/main/whats-new.adoc[tag=whats-new,leveloffset=+1]
 
 == Cloud ops
 
-include::https://raw.githubusercontent.com/NetAppDocs/cloud-manager-compute/main/whats-new.adoc[tag=whats-new,leveloffset=+1]
+include::https://raw.githubusercontent.com/NetAppDocs/bluexp-cloud-ops/main/whats-new.adoc[tag=whats-new,leveloffset=+1]
 
 == Copy and sync
 
-include::https://raw.githubusercontent.com/NetAppDocs/cloud-manager-sync/main/whats-new.adoc[tag=whats-new,leveloffset=+1]
+include::https://raw.githubusercontent.com/NetAppDocs/bluexp-copy-sync/main/whats-new.adoc[tag=whats-new,leveloffset=+1]
 
 == Digital advisor
 
@@ -76,7 +76,7 @@ include::https://raw.githubusercontent.com/NetAppDocs/bluexp-digital-wallet/main
 
 == E-Series systems
 
-include::https://raw.githubusercontent.com/NetAppDocs/cloud-manager-e-series/main/whats-new.adoc[tag=whats-new,leveloffset=+1]
+include::https://raw.githubusercontent.com/NetAppDocs/bluexp-e-series/main/whats-new.adoc[tag=whats-new,leveloffset=+1]
 
 == Economic efficiency
 
@@ -84,21 +84,15 @@ include::https://raw.githubusercontent.com/NetAppDocs/bluexp-economic-efficiency
 
 == Edge caching
 
-include::https://raw.githubusercontent.com/NetAppDocs/cloud-manager-file-cache/main/whats-new.adoc[tag=whats-new,leveloffset=+1]
+include::https://raw.githubusercontent.com/NetAppDocs/bluexp-edge-caching/main/whats-new.adoc[tag=whats-new,leveloffset=+1]
 
 == Kubernetes
 
-include::https://raw.githubusercontent.com/NetAppDocs/cloud-manager-kubernetes/main/whats-new.adoc[tag=whats-new,leveloffset=+1]
-
-== Monitoring
-
-=== 1 November 2022
-
-The Monitoring service was retired on 1 November, 2022. You can now find a direct link to Cloud Insights from the navigation menu by selecting *Insights > Observability*.
+include::https://raw.githubusercontent.com/NetAppDocs/bluexp-kubernetes/main/whats-new.adoc[tag=whats-new,leveloffset=+1]
 
 == On-prem ONTAP clusters
 
-include::https://raw.githubusercontent.com/NetAppDocs/cloud-manager-ontap-onprem/main/whats-new.adoc[tag=whats-new,leveloffset=+1]
+include::https://raw.githubusercontent.com/NetAppDocs/bluexp-ontap-onprem/main/whats-new.adoc[tag=whats-new,leveloffset=+1]
  
 == Operational resiliency
 
@@ -106,26 +100,20 @@ include::https://raw.githubusercontent.com/NetAppDocs/bluexp-operational-resilie
 
 == Ransomware protection
 
-include::https://raw.githubusercontent.com/NetAppDocs/cloud-manager-ransomware/main/whats-new.adoc[tag=whats-new,leveloffset=+1]
+include::https://raw.githubusercontent.com/NetAppDocs/bluexp-ransomware-protection/main/whats-new.adoc[tag=whats-new,leveloffset=+1]
 
 == Remediation
 
-include::https://raw.githubusercontent.com/NetAppDocs/cloud-manager-app-template/main/whats-new.adoc[tag=whats-new,leveloffset=+1]
+include::https://raw.githubusercontent.com/NetAppDocs/bluexp-remediation/main/whats-new.adoc[tag=whats-new,leveloffset=+1]
 
 == Replication
 
-include::https://raw.githubusercontent.com/NetAppDocs/cloud-manager-replication/main/whats-new.adoc[tag=whats-new,leveloffset=+1]
-
-== SnapCenter service
-
-=== 1 November 2022
-
-The SnapCenter service was retired on 1 November, 2022.
+include::https://raw.githubusercontent.com/NetAppDocs/bluexp-replication/main/whats-new.adoc[tag=whats-new,leveloffset=+1]
 
 == StorageGRID
 
-include::https://raw.githubusercontent.com/NetAppDocs/cloud-manager-storagegrid/main/whats-new.adoc[tag=whats-new,leveloffset=+1]
+include::https://raw.githubusercontent.com/NetAppDocs/bluexp-storagegrid/main/whats-new.adoc[tag=whats-new,leveloffset=+1]
 
 == Tiering
 
-include::https://raw.githubusercontent.com/NetAppDocs/cloud-manager-tiering/main/whats-new.adoc[tag=whats-new,leveloffset=+1]
+include::https://raw.githubusercontent.com/NetAppDocs/bluexp-tiering/main/whats-new.adoc[tag=whats-new,leveloffset=+1]
