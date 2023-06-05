@@ -74,6 +74,8 @@ Digital advisor (formerly Active IQ) is now fully integrated with BlueXP and has
 
 When you access BlueXP digital advisor, you're now prompted for your NetApp Support Site credentials so that you can view data related to your systems. The NSS account that you log in with is associated with your user login only. It's not associated with any other users in your NetApp account.
 
+https://docs.netapp.com/us-en/active-iq/index.html[Learn more about BlueXP digital advisor^]
+
 == Digital Wallet
 
 include::https://raw.githubusercontent.com/NetAppDocs/bluexp-digital-wallet/main/whats-new.adoc[tag=whats-new,leveloffset=+1]
