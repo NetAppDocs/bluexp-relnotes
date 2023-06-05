@@ -26,6 +26,10 @@ This section describes new features related to BlueXP administration features: A
 
 include::https://raw.githubusercontent.com/NetAppDocs/bluexp-setup-admin/main/whats-new.adoc[tag=whats-new,leveloffset=+1]
 
+== Azure Blob storage
+
+include::https://raw.githubusercontent.com/NetAppDocs/bluexp-blob-storage/main/whats-new.adoc[tag=whats-new,leveloffset=+1]
+
 == Azure NetApp Files
 
 include::https://raw.githubusercontent.com/NetAppDocs/bluexp-azure-netapp-files/main/whats-new.adoc[tag=whats-new,leveloffset=+1]
@@ -92,6 +96,10 @@ include::https://raw.githubusercontent.com/NetAppDocs/bluexp-edge-caching/main/w
 
 include::https://raw.githubusercontent.com/NetAppDocs/bluexp-kubernetes/main/whats-new.adoc[tag=whats-new,leveloffset=+1]
 
+== Migration reports
+
+include::https://raw.githubusercontent.com/NetAppDocs/bluexp-reports/main/release-notes/whats-new.adoc[tag=whats-new,leveloffset=+1]
+
 == On-prem ONTAP clusters
 
 include::https://raw.githubusercontent.com/NetAppDocs/bluexp-ontap-onprem/main/whats-new.adoc[tag=whats-new,leveloffset=+1]
@@ -119,3 +127,7 @@ include::https://raw.githubusercontent.com/NetAppDocs/bluexp-storagegrid/main/wh
 == Tiering
 
 include::https://raw.githubusercontent.com/NetAppDocs/bluexp-tiering/main/whats-new.adoc[tag=whats-new,leveloffset=+1]
+
+== Volume caching
+
+include::https://raw.githubusercontent.com/NetAppDocs/bluexp-volume-caching/main/release-notes/cache-whats-new.adoc[tag=whats-new,leveloffset=+1]
