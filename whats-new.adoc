@@ -96,7 +96,7 @@ include::https://raw.githubusercontent.com/NetAppDocs/bluexp-kubernetes/main/wha
 
 == Migration reports
 
-include::https://raw.githubusercontent.com/NetAppDocs/bluexp-reports/main/whats-new.adoc[tag=whats-new,leveloffset=+1]
+include::https://raw.githubusercontent.com/NetAppDocs/bluexp-reports/main/release-notes/whats-new.adoc[tag=whats-new,leveloffset=+1]
 
 == On-prem ONTAP clusters
 
@@ -128,4 +128,4 @@ include::https://raw.githubusercontent.com/NetAppDocs/bluexp-tiering/main/whats-
 
 == Volume caching
 
-include::https://raw.githubusercontent.com/NetAppDocs/bluexp-volume-caching/main/whats-new.adoc[tag=whats-new,leveloffset=+1]
+include::https://raw.githubusercontent.com/NetAppDocs/bluexp-volume-caching/main/release-notes/cache-whats-new.adoc[tag=whats-new,leveloffset=+1]
