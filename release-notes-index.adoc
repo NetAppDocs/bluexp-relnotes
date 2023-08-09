@@ -1,6 +1,8 @@
 ---
 sidebar: sidebar
 permalink: release-notes-index.html
+keywords: release notes
+summary: View the full set of release notes for each individual service.
 ---
 
 = Release notes index
