@@ -19,7 +19,6 @@ sidebar:
 product-family:
   name: BlueXP
   repo: bluexp-family
-  sidebar_label: All BlueXP documentation
 homepage:
   tiles:
     - title: What's new
