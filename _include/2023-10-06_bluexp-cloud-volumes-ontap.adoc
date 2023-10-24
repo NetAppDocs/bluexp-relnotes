@@ -1,0 +1,6 @@
+The following changes were introduced with the 3.9.34 release of the Connector.
+
+=== Cloud Volumes ONTAP 9.14.0
+BlueXP can now deploy and manage the Cloud Volumes ONTAP 9.14.0 General Availability release in AWS, Azure, and Google Cloud.
+
+link:https://docs.netapp.com/us-en/cloud-volumes-ontap-relnotes/[Learn about the new features included in this release of Cloud Volumes ONTAP^].

@@ -1,0 +1,17 @@
+BlueXP disaster recovery preview is a cloud-based disaster recovery service that automates disaster recovery workflows. Initially, with the BlueXP disaster recovery preview, you can protect your on-premises, NFS-based VMware workloads running NetApp storage to VMware Cloud (VMC) on AWS with Amazon FSx for ONTAP. 
+
+NOTE: With this preview offering, NetApp reserves the right to modify offering details, contents and timeline before General Availability.   
+
+https://docs.netapp.com/us-en/bluexp-disaster-recovery/get-started/dr-intro.html[Learn more about BlueXP disaster recovery]. 
+
+This release includes the following updates: 
+
+* *Resource groups update for boot order*: When you create a disaster recovery or replication plan, you can add virtual machines into functional resource groups. Resource groups enable you to put a set of dependent virtual machines into logical groups that meet your requirements. For example, groups could contain boot order that can be executed upon recovery. With this release, each resource group can include one or more virtual machines. The virtual machines will power on based on the sequence in which you include them in the plan. Refer to https://docs.netapp.com/us-en/bluexp-disaster-recovery/use/drplan-create.html#select-applications-to-replicate-and-assign-resource-groups[Select applications to replicate and assign resource groups].
+ 
+
+
+* *Replication verification*: After you create the disaster recovery or replication plan, identify the recurrence in the wizard, and initiate a replication to a disaster recovery site, every 30 minutes BlueXP disaster recovery verifies that the replication is actually occurring according to the plan. You can monitor the progress in the Job Monitor page. Refer to  https://docs.netapp.com/us-en/bluexp-disaster-recovery/use/replicate.html[Replicate applications to another site].
+
+* *Replication plan shows recovery point objective (RPO) transfer schedules*: When you create a disaster recovery or replication plan, you select the VMs. In this release, you can now view the SnapMirror associated with each of the volumes that are associated with the datastore or VM. You can also see the RPO transfer schedules that are associated with the SnapMirror schedule. RPO helps you determine whether your backup schedule is enough to recover after a disaster. Refer to https://docs.netapp.com/us-en/bluexp-disaster-recovery/use/drplan-create.html[Create a replication plan].
+
+* *Job Monitor update*: The Job Monitor page now includes a Refresh option so that you can get an up-to-date status of operations. Refer to  https://docs.netapp.com/us-en/bluexp-disaster-recovery/use/monitor-jobs.html[Monitor disaster recovery jobs].

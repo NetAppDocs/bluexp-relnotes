@@ -1,0 +1,8 @@
+The following changes were introduced with the 3.9.33 release of the Connector.
+
+=== Support for Lsv3-series VMs in Azure
+The L48s_v3 and L64s_v3 instance types are now supported with Cloud Volumes ONTAP in Azure for single node and high-availability pair deployments with shared managed disks in single and multiple availability zones, starting with the 9.13.1 release. These instance types support Flash Cache.
+
+link:https://docs.netapp.com/us-en/cloud-volumes-ontap-relnotes/reference-configs-azure.html[View supported configurations for Cloud Volumes ONTAP in Azure^]
+link:https://docs.netapp.com/us-en/cloud-volumes-ontap-relnotes/reference-limits-azure.html[View storage limits for Cloud Volumes ONTAP in Azure^]
+//end::whats-new[]

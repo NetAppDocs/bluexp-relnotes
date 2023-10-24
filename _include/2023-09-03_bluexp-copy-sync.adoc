@@ -1,0 +1,11 @@
+=== Exclude files by regex
+
+Users now have the option to exclude files using regex.
+
+https://docs.netapp.com/us-en/bluexp-copy-sync/task-creating-relationships.html#create-other-types-of-sync-relationships[Learn more about the *Exclude File Extensions* feature.]
+
+=== Add S3 keys when creating Azure data broker
+
+Users may now add AWS S3 access keys and secret keys when creating an Azure data broker. 
+
+https://docs.netapp.com/us-en/bluexp-copy-sync/task-installing-azure.html#creating-the-data-broker[Learn more about creating a data broker in Azure.]

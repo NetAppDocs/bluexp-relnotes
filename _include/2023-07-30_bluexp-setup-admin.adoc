@@ -1,0 +1,15 @@
+=== Connector 3.9.32
+
+* You can now use the BlueXP audit service API to export audit logs.
++
+The audit service records information about the operations performed by BlueXP services. This includes workspaces, Connectors used, and other telemetry data. You can use this data to determine what actions were performed, who performed them, and when they occurred.
++
+https://docs.netapp.com/us-en/bluexp-automation/audit/overview.html[Learn more about using the audit service API^]
++
+Note that this link is also accessible from the BlueXP user interface on the Timeline page.
+
+* This release of the Connector also includes Cloud Volumes ONTAP enhancements and on-prem ONTAP cluster enhancements.
++
+** https://docs.netapp.com/us-en/bluexp-cloud-volumes-ontap/whats-new.html#30-july-2023[Learn about Cloud Volumes ONTAP enhancements^]
+
+** https://docs.netapp.com/us-en/bluexp-ontap-onprem/whats-new.html#30-july-2023[Learn about ONTAP on-prem cluster enhancements^]

@@ -1,0 +1,21 @@
+=== Use existing Azure security groups when creating a data broker
+
+Users now have the option to use existing Azure security groups when creating a data broker.
+
+The service account used when creating the data broker must have these permissions:
+
+* "Microsoft.Network/networkSecurityGroups/securityRules/read"
+* "Microsoft.Network/networkSecurityGroups/read"
+
+https://docs.netapp.com/us-en/bluexp-copy-sync/task-installing-azure.html[Learn more about creating a data broker in Azure.]
+
+=== Encrypt data when syncing to Google Storage
+
+Users now have the option to specify a customer-managed encryption key when creating a sync relationship with a Google Storage bucket as the target. You can manually input your key or choose from a list of your keys in a single region. 
+
+The service account used when creating the data broker must have these permissions:
+
+* cloudkms.cryptoKeys.list
+* cloudkms.keyRings.list
+
+https://docs.netapp.com/us-en/bluexp-copy-sync/reference-requirements.html#google-cloud-storage-bucket-requirements[Learn more about Google Cloud Storage bucket requirements.]

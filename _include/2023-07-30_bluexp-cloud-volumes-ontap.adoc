@@ -1,0 +1,25 @@
+The following changes were introduced with the 3.9.32 release of the Connector.
+
+=== Flash Cache and high write speed support in Google Cloud
+Flash Cache and high write speed can be enabled separately in Google Cloud for Cloud Volumes ONTAP 9.13.1 and later. High write speed is available on all supported instance types. Flash Cache is supported on the following instance types: 
+
+* n2-standard-16
+* n2-standard-32
+* n2-standard-48
+* n2-standard-64
+
+You can use these features separately or together on both single node and high-availability pair deployments. 
+
+link:https://docs.netapp.com/us-en/bluexp-cloud-volumes-ontap/task-deploying-gcp.html[Launch Cloud Volumes ONTAP in Google Cloud^]
+
+=== Usage reports enhancements 
+Various improvements to the displayed information within the usage reports are now available. The following are enhancements to the usage reports:
+
+* The TiB unit is now included in the name of columns.
+* A new "node(s)" field for serial numbers is now included.
+* A new “Workload Type” column is now included under the Storage VMs usage report.
+* Working environment names now included in Storage VMs and Volume usage reports.
+* Volume type “file” is now labeled “Primary (Read/Write)”.
+* Volume type “secondary” is now labeled “Secondary (DP)”. 
+
+For more information on usage reports, see link:https://docs.netapp.com/us-en/bluexp-cloud-volumes-ontap/task-manage-capacity-licenses.html#download-usage-reports[Download usage reports^].

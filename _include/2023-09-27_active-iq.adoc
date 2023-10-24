@@ -1,0 +1,2 @@
+* You can access the Upgrade Advisor page for your default watchlist using the link:https://activeiq.netapp.com/redirect/upgrade-advisor[Upgrade Advisor^] link. 
+* The upgrade plan is optimized to remove redundant upgrade steps and simplify the backout plan. The common steps across all nodes in a cluster are consolidated and available under the general information section within the upgrade plan. link:https://docs.netapp.com/us-en/active-iq/task_view_upgrade.html[Learn how to generate and view the upgrade plan].

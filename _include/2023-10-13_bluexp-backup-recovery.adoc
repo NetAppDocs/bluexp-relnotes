@@ -1,0 +1,19 @@
+=== Enhancements to BlueXP backup and recovery for applications (cloud-native)
+
+* Microsoft SQL Server database
+** Supports backup, restore, and recovery of Microsoft SQL Server databases residing on Amazon FSx for NetApp ONTAP
+** All the operations are supported only through REST APIs.
+
+* SAP HANA systems
+** During system refresh, the auto mount and unmount of the volumes are performed using workflows instead of scripts
+** Supports addition, removal, edit, delete, maintain, and upgrade of the plug-in host using UI
+
+=== Enhancements to BlueXP backup and recovery for applications (hybrid)
+
+* Supports data lock and ransomware protection
+* Supports moving backups from StorageGrid to archival tier
+* Supports backing up of MongoDB, MySQL, and PostgreSQL applications data from on-premises ONTAP systems to Amazon Web Services, Microsoft Azure, Google Cloud Platform, and StorageGRID. You can restore the data when required.
+
+=== Enhancements to BlueXP backup and recovery for Virtual Machines
+
+* Support for connector proxy deployment model

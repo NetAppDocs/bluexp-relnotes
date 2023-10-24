@@ -1,0 +1,11 @@
+=== Small and medium deployments temporarily unavailable
+
+When you deploy an instance of BlueXP classification in AWS, the option to select *Deploy > Configuration* and choose a small or medium-sized instance is unavailable at this time. You can still deploy the instance using the large instance size by selecting *Deploy > Deploy*.
+
+=== Apply tags on up to 100,000 items from the Investigation Results page
+
+In the past you could only apply tags to a single page at a time in the Investigation Results page (20 items). Now you can select *all* items in the Investigation Results pages and apply tags to all the items - up to 100,000 items at a time. https://docs.netapp.com/us-en/bluexp-classification/task-org-private-data.html#assigning-tags-to-files[See how].
+
+=== Identify duplicated files with a minimum file size of 1 MB
+
+BlueXP classification used to identify duplicated files only when files were 50 MB or larger. Now duplicated files starting with 1 MB can be identified. You can use the Investigation page filters "File Size" along with "Duplicates" to see which files of a certain size are duplicated in your environment.
