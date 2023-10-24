@@ -1,5 +1,3 @@
-=== Connector 3.9.32
-
 * You can now use the BlueXP audit service API to export audit logs.
 +
 The audit service records information about the operations performed by BlueXP services. This includes workspaces, Connectors used, and other telemetry data. You can use this data to determine what actions were performed, who performed them, and when they occurred.
