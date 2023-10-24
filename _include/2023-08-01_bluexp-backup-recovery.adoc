@@ -1,0 +1,33 @@
+[IMPORTANT]
+====
+* Because of an important security enhancement, your Connector now requires outbound internet access to an additional endpoint in order to manage backup and recovery resources within your public cloud environment. If this endpoint has not been added to the "allowed" list in your firewall you'll see an error in the UI about "Service Unavailable" or "Failed to determine service status":
++
+\https://netapp-cloud-account.auth0.com
+* A Backup and recovery PAYGO subscription is now required when you are using the "CVO Professional" package that enables you to bundle Cloud Volumes ONTAP and BlueXP backup and recovery. This was not required in the past. No charges will be incurred on the Backup and recovery subscription for eligible Cloud Volumes ONTAP systems, but it is required when configuring backup on any new volumes. 
+====
+
+=== Support has been added to back up volumes to buckets on S3-configured ONTAP systems
+
+Now you can use an ONTAP system which has been configured for the Simple Storage Service (S3) to back up volumes to object storage. This is supported for both on-premises ONTAP systems and Cloud Volumes ONTAP systems. This configuration is supported in cloud deployments and in on-premises locations without internet access (a "private" mode deployment).
+
+https://docs.netapp.com/us-en/bluexp-backup-recovery/task-backup-onprem-to-ontap-s3.html[Learn more]. 
+
+=== Now you can include existing Snapshots from a protected volume in your backup files
+
+In the past you've had the ability to include existing Snapshot copies from read-write volumes in your initial backup file to object storage (instead of starting with the most recent Snapshot copy). Existing Snapshot copies from read-only volumes (data protection volumes) were not included in the backup file. Now you can choose to include older Snapshot copies in the backup file for "DP" volumes.
+//
+//*Note:* This is supported if the source volume is "RW".
+
+The backup wizard displays a prompt at the end of the backup steps where you can select these "existing Snapshots".  
+
+=== BlueXP backup and recovery no longer supports auto backup of volumes added in the future
+
+Previously you could check a box in the backup wizard to apply the selected backup policy to all future volumes added to the cluster. This feature has been removed based on user feedback and lack of usage of this feature. You'll need to manually enable backups for any new volumes added to the cluster.
+
+=== The Job Monitoring page has been updated with new features
+
+The Job Monitoring page now provides more information related to the 3-2-1 backup strategy. The service also provides additional alert notifications related to the backup strategy. 
+
+The "Backup lifecycle" Type filter has been renamed to "Retention". Use this filter to track the backup lifecycle and to identify the expiration of all backup copies. The "Retention" job type captures all Snapshot deletion jobs initiated on a volume that is protected by BlueXP backup and recovery.  
+
+https://docs.netapp.com/us-en/bluexp-backup-recovery/task-monitor-backup-jobs.html[Learn more about the updated Job Monitor].

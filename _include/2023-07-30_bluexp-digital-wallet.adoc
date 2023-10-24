@@ -1,0 +1,12 @@
+=== Usage reports enhancements
+
+Several improvements to the Cloud Volumes ONTAP usage reports are now available:
+
+* The TiB unit is now included in the name of columns.
+* A new _node(s)_ field for serial numbers is now included.
+* A new _Workload Type_ column is now included under the Storage VMs usage report.
+* Working environment names are now included in the Storage VMs and Volume usage reports.
+* The volume type _file_ is now labeled _Primary (Read/Write)_.
+* The volume type _secondary_ is now labeled _Secondary (DP)_. 
+
+For more information about the usage reports, refer to https://docs.netapp.com/us-en/bluexp-digital-wallet/task-manage-capacity-licenses.html#download-usage-reports[Download usage reports].

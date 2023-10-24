@@ -1,0 +1,1 @@
+This release fixes the issues described in the https://docs.netapp.com/us-en/bluexp-edge-caching/fixed-issues.html[Fixed Issues]. Updated software packages are available at https://docs.netapp.com/us-en/bluexp-edge-caching/download-gfc-resources.html#download-required-resources[this page].

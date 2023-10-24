@@ -1,0 +1,13 @@
+=== 3-2-1 backup policy creation during backup activation
+
+Previously, custom policies had to be created before you initiated a Snapshot, replication, or backup. Now you can create a policy during the backup activation process using the BlueXP backup and recovery UI.  
+
+https://docs.netapp.com/us-en/bluexp-backup-recovery/task-create-policies-ontap.html[Learn more about policies].
+
+=== Support for on-demand quick restore of ONTAP volumes
+
+BlueXP backup and recovery now provides the ability to perform a "quick restore" of a volume from cloud storage to a Cloud Volumes ONTAP system. The quick restore is ideal for disaster recovery situations where you need to provide access to a volume as soon as possible. A quick restore restores the metadata from the backup file to a volume instead of restoring the entire backup file.
+
+The Cloud Volumes ONTAP destination system must be running ONTAP version 9.13.0 or greater. https://docs.netapp.com/us-en/bluexp-backup-recovery/task-restore-backups-ontap.html[Learn more about restoring data].
+
+The BlueXP backup and recovery Job Monitor also shows information about the progress of quick restore jobs. 
