@@ -1,0 +1,29 @@
+This preview release of BlueXP disaster recovery includes the following updates: 
+
+* *Dashboard updates*: You can now click into the options on the Dashboard, making it easier for you to review the information quickly. Also, the Dashboard now shows the status of failovers and migrations.  
++
+Refer to https://docs.netapp.com/us-en/bluexp-disaster-recovery/use/dashboard-view.html[View the health of your disaster recovery plans on the Dashboard].
+
+
+* *Replication plan updates*: 
+** *RPO*: You can now enter the Recovery Point Objective (RPO) and Retention count in the Datastores section of the Replication plan. This indicates the amount of data that must exist that is not older than the set time. If, for example, you set it at 5 minutes, the system can lose up to 5 minutes of data if there’s a disaster without impacting business critical needs. 
++
+Refer to https://docs.netapp.com/us-en/bluexp-disaster-recovery/use/drplan-create.html[Create a replication plan].
+
+
+** *Networking enhancements*: When you are mapping networking between source and target locations in the virtual machines section of the replication plan, BlueXP disaster recovery now offers two options: DHCP or static IP. Previously, just DHCP was supported. For static IPs, you configure the subnet, gateway, and DNS servers. Additionally, you can now enter credentials for virtual machines. 
++
+Refer to https://docs.netapp.com/us-en/bluexp-disaster-recovery/use/drplan-create.html[Create a replication plan].
+
+** *Edit schedules*: You can now update replication plan schedules. 
++
+Refer to https://docs.netapp.com/us-en/bluexp-disaster-recovery/use/manage.html[Manage resources].
+
+** *SnapMirror automation*: While you are creating the replication plan in this release, you can define the SnapMirror relationship between source and target volumes in one of the following configurations: 
+
+*** 1 to 1
+*** 1 to many in a fanout architecture
+*** Many to 1 as a Consistency Group
+*** Many to many 
++
+Refer to https://docs.netapp.com/us-en/bluexp-disaster-recovery/use/drplan-create.html[Create a replication plan].

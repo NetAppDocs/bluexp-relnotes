@@ -1,0 +1,7 @@
+=== Connector 3.9.33
+
+* When you create a Connector in AWS from BlueXP, you can now search within the Key Pair field to more easily find the key pair that you want to use with the Connector instance.
++
+image:https://raw.githubusercontent.com/NetAppDocs/cloud-manager-setup-admin/main/media/screenshot-connector-aws-key-pair.png[A screenshot of the search option in the Key Pair field which appears on the Network page when creating a Connector in AWS from BlueXP.]
+
+* This update also includes bug fixes.

@@ -1,0 +1,20 @@
+=== New policies management for ONTAP data
+This release includes the ability within the UI to create custom Snapshot policies, replication policies, and policies for backups to object storage for ONTAP data. 
+
+https://docs.netapp.com/us-en/bluexp-backup-recovery/task-create-policies-ontap.html[Learn more about policies].
+
+=== Support for restoring files and folder from volumes in ONTAP S3 object storage
+
+Previously, you couldn't restore files and folders using the “Browse & Restore” feature when volumes were backed up to ONTAP S3 object storage. This release removes that restriction.  
+
+https://docs.netapp.com/us-en/bluexp-backup-recovery/task-restore-backups-ontap.html[Learn more about restoring data].
+
+=== Ability to archive backup data immediately instead of first writing to standard storage
+
+Now you can send your backup files immediately to archive storage instead of writing the data to standard cloud storage. This can be especially helpful for users who rarely need to access data from cloud backups or users who are replacing a backup to tape environment.
+
+=== Additional support for backing up and restoring SnapLock volumes
+
+Backup and recovery now can back up both FlexVol and FlexGroup volumes that are configured using either SnapLock Compliance or SnapLock Enterprise protection modes. Your clusters must be running ONTAP 9.14 or greater for this support. Backing up FlexVol volumes using SnapLock Enterprise mode has been supported since ONTAP version 9.11.1. Earlier ONTAP releases provide no support for backing up SnapLock protection volumes.
+
+https://docs.netapp.com/us-en/bluexp-backup-recovery/concept-ontap-backup-to-cloud.html[Learn more about protecting ONTAP data].

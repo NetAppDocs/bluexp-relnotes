@@ -1,0 +1,7 @@
+This preview release of BlueXP disaster recovery includes the following updates. 
+
+Now with BlueXP disaster recovery, you can protect your on-premises, NFS-based VMware workloads against disasters to another on-premises, NFS-based VMware environment in addition to the public cloud. BlueXP disaster recovery orchestrates the completion of the disaster recovery plans.  
+
+NOTE: With this preview offering, NetApp reserves the right to modify offering details, contents and timeline before General Availability.   
+
+https://docs.netapp.com/us-en/bluexp-disaster-recovery/get-started/dr-intro.html[Learn more about BlueXP disaster recovery]. 
