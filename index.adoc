@@ -7,7 +7,6 @@ summary: "These release notes describe recent enhancements to the cloud services
 ---
 
 = BlueXP release notes
-:toc: macro
 :hardbreaks:
 :nofooter:
 :icons: font
