@@ -6,7 +6,6 @@ summary: View the full set of release notes for each individual service.
 ---
 
 = Release notes index
-:toc: macro
 :hardbreaks:
 :nofooter:
 :icons: font
