@@ -6,7 +6,6 @@ summary: Learn about the most recent changes to the cloud services that are part
 ---
 
 = Recent changes in BlueXP
-:toc: macro
 :hardbreaks:
 :nofooter:
 :icons: font
