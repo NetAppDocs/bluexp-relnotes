@@ -2,7 +2,7 @@
 sidebar: sidebar
 permalink: release-notes-index.html
 keywords: release notes
-summary: View the full set of release notes for each individual service.
+summary: View the full set of release notes for each individual BlueXP service.
 ---
 
 = Release notes index
@@ -13,7 +13,7 @@ summary: View the full set of release notes for each individual service.
 :imagesdir: ./media/
 
 [.lead]
-View the full set of release notes for each individual service.
+View the full set of release notes for each individual BlueXP service.
 
 == Administration
 
