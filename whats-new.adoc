@@ -15,10 +15,6 @@ summary: Learn about the most recent changes to the cloud services that are part
 [.lead]
 Learn about the most recent changes to the cloud services that are part of the BlueXP platform. For more details, go to the link:release-notes-index.html[full set of release notes] for each individual service.
 
-== Introduction of BlueXP
-
-NetApp BlueXP was launched on 1 November, 2022. BlueXP extends and enhances the capabilities that were provided through Cloud Manager. https://docs.netapp.com/us-en/bluexp-family/concept-overview.html[Learn more about the introduction of BlueXP^]
-
 == Administrative features
 
 This section describes new features related to BlueXP administration features: Accounts, Connectors, cloud provider credentials, and more.
