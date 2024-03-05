@@ -105,6 +105,10 @@ include::https://raw.githubusercontent.com/NetAppDocs/bluexp-ontap-onprem/main/w
 
 include::https://raw.githubusercontent.com/NetAppDocs/bluexp-operational-resiliency/main/release-notes/whats-new.adoc[tag=whats-new,leveloffset=+1]
 
+== Ransomware protection
+
+include::https://raw.githubusercontent.com/NetAppDocs/bluexp-ransomware-protection/main/whats-new.adoc[tag=whats-new,leveloffset=+1]
+
 == Remediation
 
 include::https://raw.githubusercontent.com/NetAppDocs/bluexp-remediation/main/whats-new.adoc[tag=whats-new,leveloffset=+1]
