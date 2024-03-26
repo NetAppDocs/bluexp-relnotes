@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  
+    
+    
+  
+
+  
+  
+    <url>
+      
+        <loc>https://docs.netapp.com/us-en/bluexp-relnotes/</loc>
+        
+      
+      <lastmod>2023-11-15T18:38:11+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      
+        <loc>https://docs.netapp.com/us-en/bluexp-relnotes/legal-notices.html</loc>
+        
+      
+      <lastmod>2023-08-08T18:08:40+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      
+        <loc>https://docs.netapp.com/us-en/bluexp-relnotes/release-notes-</loc>
+        
+      
+      <lastmod>2024-02-26T21:22:48+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      
+        <loc>https://docs.netapp.com/us-en/bluexp-relnotes//search.html</loc>
+        
+      
+      <lastmod>2024-03-26T16:23:30+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      
+        <loc>https://docs.netapp.com/us-en/bluexp-relnotes/whats-new.html</loc>
+        
+      
+      <lastmod>2024-02-26T21:22:48+00:00</lastmod>
+      
+    </url>
+  
+
+  
+  
+</urlset>
