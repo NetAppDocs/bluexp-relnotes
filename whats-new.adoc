@@ -111,7 +111,7 @@ include::https://raw.githubusercontent.com/NetAppDocs/bluexp-ransomware-protecti
 
 == Remediation
 
-The BlueXP remediation service was removed on April 17, 2024.
+The BlueXP remediation service was removed on April 22, 2024.
 
 == Replication
 
