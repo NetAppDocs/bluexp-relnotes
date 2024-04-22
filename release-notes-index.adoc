@@ -48,7 +48,6 @@ https://docs.netapp.com/us-en/bluexp-setup-admin/whats-new.html[Setup and admini
 * https://docs.netapp.com/us-en/bluexp-edge-caching/whats-new.html[Edge caching^]
 * https://docs.netapp.com/us-en/bluexp-operational-resiliency/release-notes/whats-new.html[Operational resiliency^]
 * https://docs.netapp.com/us-en/bluexp-ransomware-protection/whats-new.html[Ransomware protection^]
-* https://docs.netapp.com/us-en/bluexp-remediation/whats-new.html[Remediation^]
 * https://docs.netapp.com/us-en/bluexp-replication/whats-new.html[Replication^]
 * https://docs.netapp.com/us-en/bluexp-tiering/whats-new.html[Tiering^]
 * https://docs.netapp.com/us-en/bluexp-volume-caching/release-notes/cache-whats-new.html[Volume caching^]
