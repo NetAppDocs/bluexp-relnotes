@@ -2,7 +2,7 @@
 sidebar: sidebar
 permalink: whats-new.html
 keywords: what's new, features, new, release notes, enhancements, fixes, new features, cloud, cloud manager, bluexp, cloud volumes ontap, kubernetes, cloud backup, cloud tiering, data sense, ransomware, connector, amazon fsx for ontap, azure netapp files, cloud sync, e-series, global file cache, google cloud, disaster recovery, backup and recovery, classification, copy and sync, edge cache, edge caching, volume caching, kubernetes, reports, ontap clusters
-summary: Learn about the most recent changes to the cloud services that are part of the BlueXP platform. For more details, go to the full set of release notes for each individual service.
+summary: Learn about the most recent changes to the cloud services that are part of the BlueXP platform. For a complete release history, go to the full set of release notes for each individual service.
 ---
 
 = Recent changes in BlueXP
@@ -13,7 +13,7 @@ summary: Learn about the most recent changes to the cloud services that are part
 :imagesdir: ./media/
 
 [.lead]
-Learn about the most recent changes to the cloud services that are part of the BlueXP platform. For more details, go to the link:release-notes-index.html[full set of release notes] for each individual service.
+Learn about the most recent changes to the cloud services that are part of the BlueXP platform. For a complete release history, go to the link:release-notes-index.html[full set of release notes] for each individual service.
 
 == Administrative features
 
