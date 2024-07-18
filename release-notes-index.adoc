@@ -31,8 +31,6 @@ https://docs.netapp.com/us-en/bluexp-setup-admin/whats-new.html[Setup and admini
 * https://docs.netapp.com/us-en/bluexp-cloud-volumes-service-gcp/whats-new.html[Cloud Volumes Service for Google Cloud^]
 * https://docs.netapp.com/us-en/bluexp-e-series/whats-new.html[E-Series systems^]
 * https://docs.netapp.com/us-en/bluexp-google-cloud-storage/whats-new.html[Google Cloud Storage^]
-* https://docs.netapp.com/us-en/bluexp-kubernetes/whats-new.html[Kubernetes clusters^]
-* https://docs.netapp.com/us-en/bluexp-reports/release-notes/whats-new.html[Migration reports^]
 * https://docs.netapp.com/us-en/bluexp-ontap-onprem/whats-new.html[On-prem ONTAP clusters^]
 * https://docs.netapp.com/us-en/bluexp-storagegrid/whats-new.html[StorageGRID^]
 
