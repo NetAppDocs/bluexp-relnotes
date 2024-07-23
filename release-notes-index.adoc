@@ -43,7 +43,6 @@ https://docs.netapp.com/us-en/bluexp-setup-admin/whats-new.html[Setup and admini
 * https://docs.netapp.com/us-en/bluexp-digital-wallet/index.html[Digital wallet^]
 * https://docs.netapp.com/us-en/bluexp-disaster-recovery/release-notes/dr-whats-new.html[Disaster recovery^]
 * https://docs.netapp.com/us-en/bluexp-economic-efficiency/release-notes/whats-new.html[Economic efficiency^]
-* https://docs.netapp.com/us-en/bluexp-edge-caching/whats-new.html[Edge caching^]
 * https://docs.netapp.com/us-en/bluexp-operational-resiliency/release-notes/whats-new.html[Operational resiliency^]
 * https://docs.netapp.com/us-en/bluexp-ransomware-protection/whats-new.html[Ransomware protection^]
 * https://docs.netapp.com/us-en/bluexp-replication/whats-new.html[Replication^]

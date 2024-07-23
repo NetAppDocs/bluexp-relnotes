@@ -83,7 +83,7 @@ include::https://raw.githubusercontent.com/NetAppDocs/bluexp-economic-efficiency
 
 == Edge caching
 
-include::https://raw.githubusercontent.com/NetAppDocs/bluexp-edge-caching/main/whats-new.adoc[tag=whats-new,leveloffset=+1]
+The BlueXP edge caching service was removed on August 7, 2024.
 
 == Google Cloud Storage
 
