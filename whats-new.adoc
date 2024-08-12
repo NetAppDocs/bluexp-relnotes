@@ -117,6 +117,10 @@ The BlueXP remediation service was removed on April 22, 2024.
 
 include::https://raw.githubusercontent.com/NetAppDocs/bluexp-replication/main/whats-new.adoc[tag=whats-new,leveloffset=+1]
 
+== Software updates
+
+include::https://raw.githubusercontent.com/NetAppDocs/bluexp-software-updates/main/release-notes/whats-new.adoc[tag=whats-new,leveloffset=+1]
+
 == StorageGRID
 
 include::https://raw.githubusercontent.com/NetAppDocs/bluexp-storagegrid/main/whats-new.adoc[tag=whats-new,leveloffset=+1]
