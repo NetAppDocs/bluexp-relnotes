@@ -1,7 +1,7 @@
 ---
 sidebar: sidebar
 permalink: whats-new.html
-keywords: what's new, features, new, release notes, enhancements, fixes, new features, cloud, cloud manager, bluexp, cloud volumes ontap, cloud backup, cloud tiering, data sense, ransomware, connector, amazon fsx for ontap, azure netapp files, cloud sync, e-series, global file cache, google cloud, disaster recovery, backup and recovery, classification, copy and sync, edge cache, edge caching, volume caching, ontap clusters
+keywords: what's new, features, new, release notes, enhancements, fixes, new features, cloud, cloud manager, bluexp, cloud volumes ontap, cloud backup, cloud tiering, data sense, ransomware, connector, amazon fsx for ontap, azure netapp files, cloud sync, e-series, global file cache, google cloud, disaster recovery, backup and recovery, classification, copy and sync, edge cache, edge caching, volume caching, ontap clusters, alerts
 summary: Learn about the most recent changes to the cloud services that are part of the BlueXP platform.
 ---
 
@@ -21,13 +21,9 @@ This section describes new features related to BlueXP administration features: A
 
 include::https://raw.githubusercontent.com/NetAppDocs/bluexp-setup-admin/main/whats-new.adoc[tag=whats-new,leveloffset=+1]
 
-== Azure Blob storage
+== Alerts
 
-include::https://raw.githubusercontent.com/NetAppDocs/bluexp-blob-storage/main/whats-new.adoc[tag=whats-new,leveloffset=+1]
-
-== Azure NetApp Files
-
-include::https://raw.githubusercontent.com/NetAppDocs/bluexp-azure-netapp-files/main/whats-new.adoc[tag=whats-new,leveloffset=+1]
+include::https://raw.githubusercontent.com/NetAppDocs/bluexp-alerts/main/whats-new.adoc[tag=whats-new,leveloffset=+1]
 
 == Amazon FSx for ONTAP
 
@@ -36,6 +32,14 @@ include::https://raw.githubusercontent.com/NetAppDocs/bluexp-fsx-ontap/main/what
 == Amazon S3 storage
 
 include::https://raw.githubusercontent.com/NetAppDocs/bluexp-s3-storage/main/whats-new.adoc[tag=whats-new,leveloffset=+1]
+
+== Azure Blob storage
+
+include::https://raw.githubusercontent.com/NetAppDocs/bluexp-blob-storage/main/whats-new.adoc[tag=whats-new,leveloffset=+1]
+
+== Azure NetApp Files
+
+include::https://raw.githubusercontent.com/NetAppDocs/bluexp-azure-netapp-files/main/whats-new.adoc[tag=whats-new,leveloffset=+1]
 
 == Backup and recovery
 
