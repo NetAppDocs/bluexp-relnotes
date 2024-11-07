@@ -2,7 +2,7 @@ indexpage:
   title: BlueXP release notes
   lead: These release notes describe recent enhancements to the cloud services that are part of BlueXP. Links are available to the full set of release notes for each individual service.
   summary: These release notes describe recent enhancements to the cloud services that are part of BlueXP. Links are available to the full set of release notes for each individual service.
-  keywords: release notes, enhancements, cloud services, bluexp
+  keywords: release notes, enhancements, cloud services, bluexp, what's new
   tiles:
     - title: What's new
       links:
