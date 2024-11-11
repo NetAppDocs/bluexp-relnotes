@@ -51,3 +51,4 @@ https://docs.netapp.com/us-en/bluexp-setup-admin/whats-new.html[Setup and admini
 * https://docs.netapp.com/us-en/bluexp-software-updates/release-notes/whats-new.html[Software updates^]
 * https://docs.netapp.com/us-en/bluexp-tiering/whats-new.html[Tiering^]
 * https://docs.netapp.com/us-en/bluexp-volume-caching/release-notes/cache-whats-new.html[Volume caching^]
+* https://docs.netapp.com/us-en/workload-relnotes/whats-new.html[Workload factory^]
