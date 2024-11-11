@@ -136,3 +136,7 @@ include::https://raw.githubusercontent.com/NetAppDocs/bluexp-tiering/main/whats-
 == Volume caching
 
 include::https://raw.githubusercontent.com/NetAppDocs/bluexp-volume-caching/main/release-notes/cache-whats-new.adoc[tag=whats-new,leveloffset=+1]
+
+== Workload factory
+
+include::https://raw.githubusercontent.com/NetAppDocs/workload-setup-admin/main/whats-new.adoc[tag=whats-new,leveloffset=+1]
