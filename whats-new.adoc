@@ -57,9 +57,6 @@ include::https://raw.githubusercontent.com/NetAppDocs/bluexp-cloud-volumes-ontap
 
 include::https://raw.githubusercontent.com/NetAppDocs/bluexp-cloud-volumes-service-gcp/main/whats-new.adoc[tag=whats-new,leveloffset=+1]
 
-== Cloud ops
-
-include::https://raw.githubusercontent.com/NetAppDocs/bluexp-cloud-ops/main/whats-new.adoc[tag=whats-new,leveloffset=+1]
 
 == Copy and sync
 
