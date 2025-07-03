@@ -89,6 +89,10 @@ The BlueXP edge caching service was removed on August 7, 2024.
 
 include::https://raw.githubusercontent.com/NetAppDocs/bluexp-google-cloud-storage/main/whats-new.adoc[tag=whats-new,leveloffset=+1]
 
+== Keystone
+
+include::https://raw.githubusercontent.com/NetAppDocs/keystone-staas/main/whats-new.adoc[tag=whats-new,leveloffset=+1]
+
 == Kubernetes
 
 Support for discovering and managing Kubernetes clusters was removed on August 7, 2024.

@@ -33,6 +33,10 @@ https://docs.netapp.com/us-en/bluexp-setup-admin/whats-new.html[Setup and admini
 * https://docs.netapp.com/us-en/bluexp-ontap-onprem/whats-new.html[On-prem ONTAP clusters^]
 * https://docs.netapp.com/us-en/bluexp-storagegrid/whats-new.html[StorageGRID^]
 
+== Storage as a service
+
+* https://docs.netapp.com/us-en/keystone-staas/release-notes/whats-new.html[Keystone^]
+
 == Data services
 
 * https://docs.netapp.com/us-en/bluexp-alerts/whats-new.html[Alerts^]
