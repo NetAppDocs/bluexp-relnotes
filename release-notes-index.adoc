@@ -35,7 +35,7 @@ https://docs.netapp.com/us-en/bluexp-setup-admin/whats-new.html[Setup and admini
 
 == Storage as a service
 
-* https://docs.netapp.com/us-en/keystone-staas/release-notes/whats-new.html[Keystone^]
+* https://docs.netapp.com/us-en/keystone-staas/whats-new.html[Keystone^]
 
 == Data services
 
