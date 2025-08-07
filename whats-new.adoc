@@ -13,7 +13,7 @@ summary: Learn about the most recent changes to the cloud services that are part
 :imagesdir: ./media/
 
 [.lead]
-Learn about the most recent changes to the cloud services that are part of the BlueXP platform. For a complete release history, go to the link:release-notes-index.html[full set of release notes] for each individual service.
+Learn about the most recent changes to the cloud services that are part of the BlueXP platform. For a complete release history, go to the link:release-notes-index.html[full set of release notes] for each individual service. 
 
 == Administrative features
 
